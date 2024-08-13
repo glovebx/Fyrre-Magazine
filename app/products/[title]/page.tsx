@@ -4,6 +4,8 @@ import SocialSharing from "@/components/SocialSharing";
 import Subheading from "@/components/Subheading";
 import Link from "next/link";
 
+export const runtime = 'edge';
+
 export async function generateMetadata({
   params,
 }: {

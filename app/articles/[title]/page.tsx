@@ -4,6 +4,8 @@ import PostNavigation from "@/components/PostNavigation";
 import SocialSharing from "@/components/SocialSharing";
 import PodcastContextProvider from "@/context/PodcastContext";
 
+export const runtime = 'edge';
+
 export async function generateMetadata({
   params,
 }: {

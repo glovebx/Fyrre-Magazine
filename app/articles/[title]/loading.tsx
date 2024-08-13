@@ -1,6 +1,8 @@
 import SkeletonCard from "@/components/LatestProducts/SkeletonCard";
 import { Skeleton } from "@/components/ui/skeleton";
 
+export const runtime = 'edge';
+
 export default function Loading() {
   return (
     <div className="max-w-[95rem] w-full mx-auto px-4 pb-12 md:pt-8 sm:pt-4 xs:pt-2 md:pb-4 sm:pb-2 xs:pb-2">

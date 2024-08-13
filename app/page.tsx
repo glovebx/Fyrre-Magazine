@@ -8,7 +8,7 @@ import Subheading from "@/components/Subheading";
 import { Suspense } from "react";
 
 export const metadata = {
-  title: "Guluart | Jewelry & Art | Home",
+  title: "Guluart | Jewelry & Art | 古鹿",
   description: "古鹿美学, 古鹿珠宝, Jewelry, Articles and news from Guluart",
 };
 

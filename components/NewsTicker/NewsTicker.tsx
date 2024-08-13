@@ -17,7 +17,6 @@ export default function NewsTicker() {
       const tickerWidth = ticker.offsetWidth;
 
       const xPercent = newsContainer.current?.offsetWidth ?? 0;
-      console.log(xPercent);
 
       gsap.set(ticker, { x: xPercent });
 

@@ -21,7 +21,7 @@ export default function RootLayout({
       <head>
         <link
           rel="icon"
-          href="/logos/FyrreMagazineFavicon.svg"
+          href="/logos/GuluartFavicon.svg"
           type="image/x-icon"
         />
       </head>

@@ -24,6 +24,9 @@ export default function RootLayout({
           href="/logos/GuluartFavicon.svg"
           type="image/x-icon"
         />
+      {/* <!-- Cloudflare Web Analytics --> */}
+      <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "c5b86d470000433b86221d553484fb4c"}'></script>
+      {/* <!-- End Cloudflare Web Analytics --> */}        
       </head>
       <body>
         <ArticleContextProvider>

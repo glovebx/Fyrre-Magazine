@@ -18,24 +18,24 @@ export type ArticleType = {
 };
 
 export async function getArticles(): Promise<ArticleType[]> {
-  // const res = await fetch(
-  //   "https://raw.githubusercontent.com/glovebx/Fyrre-Magazine/main/json/articles.json", { signal: AbortSignal.timeout(10000) }
-  // );
+  const res = await fetch(
+    "https://raw.githubusercontent.com/glovebx/Fyrre-Magazine/main/json/articles.json?20240801", { signal: AbortSignal.timeout(30000) }
+  );
+  if (!res.ok) {
+    throw new Error("Failed to fetch article data");
+  }
 
-  const res = await fetch(`${process.env.NEXT_PUBLIC_APP_URL}/api/articles?${new Date()}`, {
-      method: "POST",
-      body: JSON.stringify({ }),
-      headers: {
-        "Content-Type": "application/json",
-      },
-    });
+  return res.json();
 
-  // console.log(res);  
+  // const res = await fetch(`${process.env.NEXT_PUBLIC_APP_URL}/api/articles?${new Date()}`, {
+  //     method: "POST",
+  //     body: JSON.stringify({ }),
+  //     headers: {
+  //       "Content-Type": "application/json",
+  //     },
+  //   });
 
-  // if (!res.ok) {
-  //   throw new Error("Failed to fetch article data");
-  // }
-  const result = await res.json();
+  // const result = await res.json();
 
-  return result.data;
+  // return result.data;
 }

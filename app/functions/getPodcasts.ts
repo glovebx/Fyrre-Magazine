@@ -17,24 +17,27 @@ export type PodcastType = {
 };
 
 export async function getPodcasts(): Promise<PodcastType[]> {
-  // const res = await fetch(
-  //   "https://raw.githubusercontent.com/glovebx/Fyrre-Magazine/main/json/podcasts.json", { signal: AbortSignal.timeout(30000) }
-  // );
-  const res = await fetch(`${process.env.NEXT_PUBLIC_APP_URL}/api/podcasts?${new Date()}`, {
-    method: "POST",
-    body: JSON.stringify({ }),
-    headers: {
-      "Content-Type": "application/json",
-    },
-  });
+  const res = await fetch(
+    "https://raw.githubusercontent.com/glovebx/Fyrre-Magazine/main/json/podcasts.json?20240801", { signal: AbortSignal.timeout(30000) }
+  );
 
   if (!res.ok) {
     throw new Error("Failed to fetch podcast data");
   }
 
-  const result = await res.json();
+  return res.json();  
 
-  console.log(result);
+  // const res = await fetch(`${process.env.NEXT_PUBLIC_APP_URL}/api/podcasts?${new Date()}`, {
+  //   method: "POST",
+  //   body: JSON.stringify({ }),
+  //   headers: {
+  //     "Content-Type": "application/json",
+  //   },
+  // });
 
-  return result.data;
+  // const result = await res.json();
+
+  // console.log(result);
+
+  // return result.data;
 }

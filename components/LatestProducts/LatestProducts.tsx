@@ -1,12 +1,18 @@
+"use client";
+
+// import { useProductContext } from "@/hooks/useProductContext";
 import Link from "next/link";
-import { getProducts } from "@/app/functions/getProducts";
+// import { getProducts } from "@/app/functions/getProducts";
 import Image from "next/image";
+import products from "@/json/products.json";
 
 export default async function LatestProducts() {
-  const data = await getProducts();
+  // const data = await getProducts();
+  // const { data } = useProductContext();
+
   return (
     <div className="grid grid-cols-1 md:grid-cols-3 xl:grid-cols-3 max-w-[95rem] w-full mx-auto border border-black border-collapse">
-      {data
+      {products
         .map((product) => (
           <article className="border border-black p-4 md:p-10" key={product.id}>
             {/* <Link href={`/podcasts/${podcast.slug}`}> */}

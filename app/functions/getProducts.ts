@@ -31,26 +31,30 @@ export type ProductType = {
 };
 
 export async function getProducts(): Promise<ProductType[]> {
-  const res = await fetch(
-    "https://raw.githubusercontent.com/glovebx/Fyrre-Magazine/main/json/products.json?20240801", { signal: AbortSignal.timeout(30000) }
-  );
+  // // const res = await fetch(
+  // //   "https://raw.githubusercontent.com/glovebx/Fyrre-Magazine/main/json/products.json?20240801", { signal: AbortSignal.timeout(30000) }
+  // // );
+  // const res = await fetch(
+  //   "https://www.moco.co/wechat_mall/static/src/json/products.json?20240801", { signal: AbortSignal.timeout(30000) }
+  // );
 
-  if (!res.ok) {
-    throw new Error("Failed to fetch article data");
-  }
+  // if (!res.ok) {
+  //   throw new Error("Failed to fetch product data");
+  // }
 
-  return res.json();
-  // const res = await fetch(`${process.env.NEXT_PUBLIC_APP_URL}/api/products?${new Date()}`, {
-  //     method: "POST",
-  //     body: JSON.stringify({ }),
-  //     headers: {
-  //       "Content-Type": "application/json",
-  //     },
-  //   });
+  // return res.json();
 
-  // // console.log(res);  
+  const res = await fetch('/api/products', {
+      method: "POST",
+      body: JSON.stringify({ }),
+      headers: {
+        "Content-Type": "application/json",
+      },
+    });
 
-  // const result = await res.json();
+  // console.log(res);  
 
-  // return result.data;
+  const result = await res.json();
+
+  return result.data;
 }

@@ -18,9 +18,12 @@ export type ArticleType = {
 };
 
 export async function getArticles(): Promise<ArticleType[]> {
+  // const res = await fetch(
+  //   "https://raw.githubusercontent.com/glovebx/Fyrre-Magazine/main/json/articles.json?20240801", { signal: AbortSignal.timeout(30000) }
+  // );
   const res = await fetch(
-    "https://raw.githubusercontent.com/glovebx/Fyrre-Magazine/main/json/articles.json?20240801", { signal: AbortSignal.timeout(30000) }
-  );
+    "/json/articles", { signal: AbortSignal.timeout(30000) }
+  );  
   if (!res.ok) {
     throw new Error("Failed to fetch article data");
   }

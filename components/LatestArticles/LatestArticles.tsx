@@ -1,16 +1,17 @@
 "use client";
 
-import { useArticleContext } from "@/hooks/useArticleContext";
+// import { useArticleContext } from "@/hooks/useArticleContext";
 import Sidebar from "../Sidebar";
 import { Separator } from "@radix-ui/react-separator";
 import Link from "next/link";
 import Loading from "./loading";
 import Image from "next/image";
+import articles from "@/json/articles.json";
 
 export default function LatestArticles() {
-  const { data } = useArticleContext();
+  // const { data } = useArticleContext();
 
-  if (data.length > 0) {
+  if (articles.length > 0) {
   // if (data.length > 0 && data[0].articles.length > 0) {
   //   const allArticles = data[0].articles.sort((a, b) => {
   //     const dateA = new Date(a.date).getTime();
@@ -22,9 +23,9 @@ export default function LatestArticles() {
 
     // const remainingArticles = allArticles.slice(1);
 
-    const latestArticle = data[0];
+    const latestArticle = articles[0];
 
-    const remainingArticles = data.slice(1);    
+    const remainingArticles = articles.slice(1);    
 
     return (
       <>

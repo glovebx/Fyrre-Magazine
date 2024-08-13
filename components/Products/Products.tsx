@@ -1,22 +1,23 @@
 "use client";
 
-import { useProductContext } from "@/hooks/useProductContext";
+// import { useProductContext } from "@/hooks/useProductContext";
 import Link from "next/link";
 import { Button } from "../ui/button";
 import { useState } from "react";
+import products from "@/json/products.json";
 
 export default function Products() {
-  const { data } = useProductContext();
+  // const { data } = useProductContext();
   const [selectedLabel, setSelectedLabel] = useState("All");
 
   const labels: string[] = [
     "All",
     ...new Set(
-      data.flatMap((product) => product.products.map((item) => item.label))
+      products.flatMap((product) => product.products.map((item) => item.label))
     ),
   ];
 
-  const filteredArticles = data.flatMap((article) =>
+  const filteredArticles = products.flatMap((article) =>
     article.products
       .filter((item) =>
         selectedLabel === "All" ? true : selectedLabel === item.label
@@ -31,7 +32,7 @@ export default function Products() {
     <div className="max-w-[95rem] w-full mx-auto">
       <div className="flex flex-wrap justify-between items-center gap-2 md:gap-0 my-6">
         <p className="font-semibold uppercase">Categories</p>
-        {data && (
+        {products && (
           <div className="flex flex-wrap gap-2">
             {labels.map((label, index) => (
               <Button

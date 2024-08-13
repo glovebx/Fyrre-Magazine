@@ -60,18 +60,30 @@ export default function Header() {
               </svg>
               <SocialSharing
                 links={[
+                  // {
+                  //   href: "#",
+                  //   ariaLabel: "Visit our Instagram page",
+                  //   src: "/icons/ri_instagram-line.svg",
+                  //   alt: "Instagram logo",
+                  // },
+                  // {
+                  //   href: "#",
+                  //   ariaLabel: "Visit our Twitter page",
+                  //   src: "/icons/ri_twitter-fill.svg",
+                  //   alt: "Twitter logo",
+                  // },
                   {
-                    href: "#",
-                    ariaLabel: "Visit our Instagram page",
-                    src: "/icons/ri_instagram-line.svg",
-                    alt: "Instagram logo",
+                    href: "https://www.weibo.com/u/6358821166",
+                    ariaLabel: "Visit our Weibo page",
+                    src: "/icons/ri_weibo-fill.svg",
+                    alt: "Weibo logo",
                   },
                   {
                     href: "#",
-                    ariaLabel: "Visit our Twitter page",
-                    src: "/icons/ri_twitter-fill.svg",
-                    alt: "Twitter logo",
-                  },
+                    ariaLabel: "Visit our MP page",
+                    src: "/icons/ri_weixin-fill.svg",
+                    alt: "Weixin logo",
+                  },                     
                 ]}
               />
             </nav>

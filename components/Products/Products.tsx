@@ -1,23 +1,23 @@
 "use client";
 
-import { useArticleContext } from "@/hooks/useArticleContext";
+import { useProductContext } from "@/hooks/useProductContext";
 import Link from "next/link";
 import { Button } from "../ui/button";
 import { useState } from "react";
 
-export default function Articles() {
-  const { data } = useArticleContext();
+export default function Products() {
+  const { data } = useProductContext();
   const [selectedLabel, setSelectedLabel] = useState("All");
 
   const labels: string[] = [
     "All",
     ...new Set(
-      data.flatMap((article) => article.articles.map((item) => item.label))
+      data.flatMap((product) => product.products.map((item) => item.label))
     ),
   ];
 
   const filteredArticles = data.flatMap((article) =>
-    article.articles
+    article.products
       .filter((item) =>
         selectedLabel === "All" ? true : selectedLabel === item.label
       )
@@ -51,14 +51,15 @@ export default function Articles() {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 border border-black border-collapse mb-48">
         {filteredArticles.map((articleData, index) => (
-          <article className="border border-black p-8" key={index}>
+          <article className="border border-black p-8 flex flex-col relative" key={index}>
             <div className="flex items-center justify-between">
               <time dateTime={articleData.date}>{articleData.date}</time>
               <span className="px-3 py-2 border border-black rounded-full">
                 <p className="uppercase">{articleData.label}</p>
               </span>
             </div>
-            <Link href={`magazine/${articleData.slug}`}>
+            {/* <Link href={`magazine/${articleData.slug}`}> */}
+            <Link href="#">
               <img
                 className="w-full my-8 hover:scale-105 transition"
                 src={articleData.img}
@@ -66,19 +67,23 @@ export default function Articles() {
               />
             </Link>
             <h2 className="heading3-title mb-3">
-              <Link href={`/magazine/${articleData.slug}`}>
+              <Link href="#">
                 {articleData.title}
               </Link>
             </h2>
             <p className="mt-3 mb-12">{articleData.description}</p>
-            <div className="flex flex-wrap gap-4">
+            <div className="flex flex-wrap gap-4 absolute bottom-0 mb-2">
               <span className="flex">
-                <p className="font-semibold pr-2">Text</p>
-                <p>{articleData.author}</p>
+                <p className="font-semibold pr-2">Tags</p>
+                {articleData.tags.map((tag, index) => (
+                  <p className="pr-2">{tag}</p>
+                ))}
               </span>
               <span className="flex">
-                <p className="font-semibold pr-2">Duration</p>
-                <p>{articleData.read}</p>
+                <p className="font-semibold pr-2">RMO</p>
+                {articleData.sources.map((source, index) => (
+                  <p className="pr-2">{source}</p>
+                ))}
               </span>
             </div>
           </article>

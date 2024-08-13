@@ -1,4 +1,4 @@
-import { ArticleType, getArticles } from "@/app/functions/getArticles";
+import { ProductType, getProducts } from "@/app/functions/getProducts";
 import PostNavigation from "@/components/PostNavigation";
 import SocialSharing from "@/components/SocialSharing";
 import Subheading from "@/components/Subheading";
@@ -9,22 +9,22 @@ export async function generateMetadata({
 }: {
   params: { title: string };
 }) {
-  const articles: ArticleType[] = await getArticles();
+  const products: ProductType[] = await getProducts();
 
-  const articleData = articles.find((article) =>
-    article.articles.find((articleItem) => articleItem.slug === params.title)
+  const articleData = products.find((article) =>
+    article.products.find((item) => item.slug === params.title)
   );
 
   if (!articleData) {
     return <p>Article not found</p>;
   }
 
-  const matchingArticle = articleData.articles.find(
-    (articleItem) => articleItem.slug === params.title
+  const matchingArticle = articleData.products.find(
+    (item) => item.slug === params.title
   );
 
   return {
-    title: `${matchingArticle?.title} | Fyrre Magazine`,
+    title: `${matchingArticle?.title} | Guluart`,
   };
 }
 
@@ -34,22 +34,22 @@ export default async function ArticleDetails({
   params: { title: string };
 }) {
   try {
-    const articles: ArticleType[] = await getArticles();
+    const products: ProductType[] = await getProducts();
 
-    const articleData = articles.find((article) =>
-      article.articles.find((articleItem) => articleItem.slug === params.title)
+    const articleData = products.find((article) =>
+      article.products.find((item) => item.slug === params.title)
     );
 
     if (!articleData) {
       return <p>Article not found</p>;
     }
 
-    const matchingArticle = articleData.articles.find(
-      (articleItem) => articleItem.slug === params.title
+    const matchingArticle = articleData.products.find(
+      (item) => item.slug === params.title
     );
 
-    const latestArticles = articles
-      .flatMap((articleData) => articleData.articles)
+    const latestProducts = products
+      .flatMap((articleData) => articleData.products)
       .sort((a, b) => {
         const dateA = new Date(a.date).getTime();
         const dateB = new Date(b.date).getTime();
@@ -177,39 +177,39 @@ export default async function ArticleDetails({
           >
             Latest Posts
           </Subheading>
-          {latestArticles.map((latestArticles) => (
-            <div key={latestArticles.slug}>
+          {latestProducts.map((latestProducts) => (
+            <div key={latestProducts.slug}>
               <p></p>
             </div>
           ))}
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 border border-black border-collapse mb-12 md:mb-48">
-            {latestArticles.map((latestArticle) => (
+            {latestProducts.map((latestProduct) => (
               <article
                 className="border border-black p-8"
-                key={latestArticle.slug}
+                key={latestProduct.slug}
               >
                 <div className="flex items-center justify-between">
-                  <time dateTime={latestArticle.date}>
-                    {latestArticle.date}
+                  <time dateTime={latestProduct.date}>
+                    {latestProduct.date}
                   </time>
                   <span className="px-3 py-2 border border-black rounded-full">
-                    <p className="uppercase">{latestArticle.label}</p>
+                    <p className="uppercase">{latestProduct.label}</p>
                   </span>
                 </div>
-                <Link href={`/magazine/${latestArticle.slug}`}>
+                <Link href={`/magazine/${latestProduct.slug}`}>
                   <img
                     className="w-full my-8"
-                    src={latestArticle.img}
-                    alt={latestArticle.imgAlt}
+                    src={latestProduct.img}
+                    alt={latestProduct.imgAlt}
                   />
                 </Link>
                 <h2 className="heading3-title mb-3">
-                  <Link href={`/magazine/${latestArticle.slug}`}>
-                    {latestArticle.title}
+                  <Link href={`/magazine/${latestProduct.slug}`}>
+                    {latestProduct.title}
                   </Link>
                 </h2>
-                <p className="mt-3 mb-12">{latestArticle.description}</p>
+                <p className="mt-3 mb-12">{latestProduct.description}</p>
                 <div className="flex flex-wrap gap-4">
                   <span className="flex">
                     <p className="font-semibold pr-2">Text</p>
@@ -217,7 +217,7 @@ export default async function ArticleDetails({
                   </span>
                   <span className="flex">
                     <p className="font-semibold pr-2">Duration</p>
-                    <p>{latestArticle.read}</p>
+                    <p>{latestProduct.read}</p>
                   </span>
                 </div>
               </article>

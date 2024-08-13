@@ -3,7 +3,7 @@ import "./globals.css";
 import type { Metadata } from "next";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import PodcastContextProvider from "@/context/PodcastContext";
+import ProductContextProvider from "@/context/ProductContext";
 import ArticleContextProvider from "@/context/ArticleContext";
 
 export const metadata: Metadata = {
@@ -27,13 +27,13 @@ export default function RootLayout({
       </head>
       <body>
         <ArticleContextProvider>
-          <PodcastContextProvider>
+          <ProductContextProvider>
             <Container>
               <Header />
               {children}
               <Footer />
             </Container>
-          </PodcastContextProvider>
+          </ProductContextProvider>
         </ArticleContextProvider>
       </body>
     </html>

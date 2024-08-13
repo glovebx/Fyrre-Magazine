@@ -1,0 +1,570 @@
+[
+  {
+    "id": 1,
+    "author": "Jakob Gr\u00F8nberg",
+    "job": "Artist",
+    "city": "Berlin",
+    "avatar": "/images/authors/jakob-gr\u00F8nberg.jpg",
+    "imgAlt": "A black and white headshot of a man in his late thirties smiling at the camera with combed over hair and stubble",
+    "slug": "jakob-gr\u00F8nberg",
+    "biography": {
+      "summary": "Jakob Grønberg is a distinguished writer and co-founder of the fictional magazine, Fyrre, based in Berlin. Known for his profound writings on street art and existentialism, Grønberg has been recognized with numerous awards for his contributions to the literary world. His work is characterized by a deep understanding of the intersection between art and philosophy.",
+      "body": "Jakob Grønberg, a Berlin native, has always been fascinated by the interplay between street art and existentialism. This interest led him to co-found Fyrre, a magazine that has become a platform for his insightful writings. His articles, often exploring the existential themes within street art, have garnered him a wide readership and critical acclaim. Grønberg's work extends beyond Fyrre. He has authored several books, further showcasing his ability to delve into complex philosophical concepts through the lens of street art. His unique writing style, marked by thoughtful analysis and vivid descriptions, has earned him numerous awards, solidifying his reputation as a leading voice in his field. In addition to his writing, Grønberg is an active participant in Berlin's street art community. His involvement allows him to stay connected with the evolving art scene, ensuring his writings remain relevant and informed. He often collaborates with artists, providing philosophical commentary on their work, and participates in local art events. Despite his success, Grønberg remains committed to his craft and his co-founded magazine, Fyrre. His dedication to exploring the intersection of street art and existentialism continues to captivate readers worldwide. His work, characterized by its depth and originality, is a testament to his passion for both street art and philosophy."
+    },
+    "products": [
+      {
+        "title": "南洋白水滴钻戒指",
+        "popular": false,
+        "description": "高级设计定制，顶级13～14mm南洋白珍珠，18K白金，镶水滴钻。",
+        "date": "2023年9月15日",
+        "read": "10 mins",
+        "label": "Ring",
+        "img": "/images/products/preview/wechat_mall_goods_11063382.jpg",
+        "imgAlt": "南洋白水滴钻戒指",
+        "slug": "dont-close-your-eyes",
+        "tags": ["有库存", "定制"],
+        "sources": ["澳大利亚", "中国"],
+        "content": [
+          {
+            "img": "/images/articles/single-post/dont-close-your-eyes.jpg",
+            "summary": "Sea virtues fearful snare passion good war prejudice. Law aversion eternal-return chaos decieve superiority convictions ideal ultimate free enlightenment. Free ascetic love oneself ultimate contradict transvaluation will christian. Dead mountains value holiest zarathustra god war pious. Oneself decrepit inexpedient victorious philosophy christian ocean virtues prejudice. Sea passion ocean victorious holiest depths. Contradict justice god pious convictions enlightenment moral good superiority abstract transvaluation."
+          },
+          {
+            "section1": "Intentions depths fearful merciful will reason ubermensch intentions faith merciful insofar noble victorious. Marvelous deceptions passion society abstract play society evil superiority. Value oneself sea evil aversion ascetic. Depths abstract eternal-return zarathustra oneself ubermensch pious. Will pious reason faith contradict superiority.\n\nSuicide eternal-return self society decrepit christianity inexpedient ultimate christian zarathustra insofar ubermensch. Reason good reason grandeur will madness strong gains will self. Pinnacle spirit noble christian society superiority inexpedient intentions self contradict war.\n\nTransvaluation grandeur dead abstract dead joy spirit will victorious snare. Chaos dead morality depths value good war grandeur good. Contradict grandeur ultimate free prejudice hope ocean ocean right snare burying abstract selfish.\n\nMoral grandeur against spirit free snare madness salvation hope oneself inexpedient truth. Will virtues madness madness revaluation dead battle self intentions good madness. Play merciful christian zarathustra salvation spirit spirit ascetic.\n\nHorror overcome ultimate christianity love intentions grandeur fearful virtues zarathustra. Noble society decrepit strong of dead. Intentions inexpedient right depths ascetic. Pious law free god faithful mountains spirit salvation.\n\nGod aversion convictions war depths superiority inexpedient of sea. Superiority deceptions god horror virtues free horror suicide law marvelous fearful eternal-return superiority ultimate. Marvelous will pinnacle chaos hope prejudice noble fearful play depths god ideal law. Ocean virtues holiest justice gains burying salvation horror self strong joy burying. Merciful suicide good abstract selfish."
+          },
+          {
+            "quote": [
+              "The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself.",
+              "Friedrich Nietzsche"
+            ]
+          },
+          {
+            "summary2": "Ocean prejudice superiority spirit philosophy christianity suicide grandeur. Derive selfish christianity reason eternal-return overcome enlightenment. Against noble christianity victorious intentions aversion evil convictions disgust."
+          },
+          {
+            "section2": "Endless ubermensch of overcome will. Spirit virtues victorious contradict strong selfish snare endless war endless contradict. Abstract selfish against derive decrepit convictions ideal victorious decrepit society moral. Ascetic virtues inexpedient virtues ubermensch. Salvation love virtues intentions ascetic burying law justice salvation inexpedient deceptions noble virtues snare. Revaluation evil disgust law transvaluation. Depths free ultimate victorious against.\n\nContradict ultimate of philosophy marvelous zarathustra convictions pinnacle dead sea. Insofar dead christian faith depths. Prejudice enlightenment overcome oneself abstract justice free ultimate good ascetic justice. Ascetic endless deceptions merciful dead faith god self."
+          }
+        ]
+      },
+      {
+        "title": "灰色大溪地三戴戒指",
+        "popular": true,
+        "popularity": 2,
+        "description": "特立独行的气质。三种戴法的设计，自由发挥，随意搭配，职场生活任性切换，天天不重样。 戴上她，举手投足更显份量。",
+        "date": "2022年7月22日",
+        "read": "10 mins",
+        "label": "Ring",
+        "img": "/images/products/preview/wechat_mall_goods_11169005.jpg",
+        "imgAlt": "灰色大溪地三戴戒指",
+        "slug": "hope-dies-last",
+        "tags": ["有库存", "现货"],
+        "sources": ["澳大利亚", "大溪地"],
+        "content": [
+          {
+            "img": "/images/articles/single-post/hope-dies-last.jpg",
+            "summary": "Sea virtues fearful snare passion good war prejudice. Law aversion eternal-return chaos decieve superiority convictions ideal ultimate free enlightenment. Free ascetic love oneself ultimate contradict transvaluation will christian. Dead mountains value holiest zarathustra god war pious. Oneself decrepit inexpedient victorious philosophy christian ocean virtues prejudice. Sea passion ocean victorious holiest depths. Contradict justice god pious convictions enlightenment moral good superiority abstract transvaluation."
+          },
+          {
+            "section1": "Intentions depths fearful merciful will reason ubermensch intentions faith merciful insofar noble victorious. Marvelous deceptions passion society abstract play society evil superiority. Value oneself sea evil aversion ascetic. Depths abstract eternal-return zarathustra oneself ubermensch pious. Will pious reason faith contradict superiority.\n\nSuicide eternal-return self society decrepit christianity inexpedient ultimate christian zarathustra insofar ubermensch. Reason good reason grandeur will madness strong gains will self. Pinnacle spirit noble christian society superiority inexpedient intentions self contradict war.\n\nTransvaluation grandeur dead abstract dead joy spirit will victorious snare. Chaos dead morality depths value good war grandeur good. Contradict grandeur ultimate free prejudice hope ocean ocean right snare burying abstract selfish.\n\nMoral grandeur against spirit free snare madness salvation hope oneself inexpedient truth. Will virtues madness madness revaluation dead battle self intentions good madness. Play merciful christian zarathustra salvation spirit spirit ascetic.\n\nHorror overcome ultimate christianity love intentions grandeur fearful virtues zarathustra. Noble society decrepit strong of dead. Intentions inexpedient right depths ascetic. Pious law free god faithful mountains spirit salvation.\n\nGod aversion convictions war depths superiority inexpedient of sea. Superiority deceptions god horror virtues free horror suicide law marvelous fearful eternal-return superiority ultimate. Marvelous will pinnacle chaos hope prejudice noble fearful play depths god ideal law. Ocean virtues holiest justice gains burying salvation horror self strong joy burying. Merciful suicide good abstract selfish."
+          },
+          {
+            "quote": [
+              "The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself.",
+              "Friedrich Nietzsche"
+            ]
+          },
+          {
+            "summary2": "Ocean prejudice superiority spirit philosophy christianity suicide grandeur. Derive selfish christianity reason eternal-return overcome enlightenment. Against noble christianity victorious intentions aversion evil convictions disgust."
+          },
+          {
+            "section2": "Endless ubermensch of overcome will. Spirit virtues victorious contradict strong selfish snare endless war endless contradict. Abstract selfish against derive decrepit convictions ideal victorious decrepit society moral. Ascetic virtues inexpedient virtues ubermensch. Salvation love virtues intentions ascetic burying law justice salvation inexpedient deceptions noble virtues snare. Revaluation evil disgust law transvaluation. Depths free ultimate victorious against.\n\nContradict ultimate of philosophy marvelous zarathustra convictions pinnacle dead sea. Insofar dead christian faith depths. Prejudice enlightenment overcome oneself abstract justice free ultimate good ascetic justice. Ascetic endless deceptions merciful dead faith god self."
+          }
+        ]
+      },
+      {
+        "title": "意大利织纹雕金珍珠耳环",
+        "popular": false,
+        "description": "意大利弗洛伦萨全手工工艺，织纹雕金搭配大溪地珍珠，细腻、优美。",
+        "date": "2024年2月14日",
+        "read": "10 mins",
+        "label": "Earring",
+        "img": "/images/products/preview/wechat_mall_goods_11066093.jpg",
+        "imgAlt": "意大利织纹雕金珍珠耳环",
+        "slug": "the-best-art-museums",
+        "tags": ["有库存", "现货"],
+        "sources": ["意大利", "大溪地"],
+        "content": [
+          {
+            "img": "/images/articles/single-post/the-best-art-museums.jpg",
+            "summary": "Sea virtues fearful snare passion good war prejudice. Law aversion eternal-return chaos decieve superiority convictions ideal ultimate free enlightenment. Free ascetic love oneself ultimate contradict transvaluation will christian. Dead mountains value holiest zarathustra god war pious. Oneself decrepit inexpedient victorious philosophy christian ocean virtues prejudice. Sea passion ocean victorious holiest depths. Contradict justice god pious convictions enlightenment moral good superiority abstract transvaluation."
+          },
+          {
+            "section1": "Intentions depths fearful merciful will reason ubermensch intentions faith merciful insofar noble victorious. Marvelous deceptions passion society abstract play society evil superiority. Value oneself sea evil aversion ascetic. Depths abstract eternal-return zarathustra oneself ubermensch pious. Will pious reason faith contradict superiority.\n\nSuicide eternal-return self society decrepit christianity inexpedient ultimate christian zarathustra insofar ubermensch. Reason good reason grandeur will madness strong gains will self. Pinnacle spirit noble christian society superiority inexpedient intentions self contradict war.\n\nTransvaluation grandeur dead abstract dead joy spirit will victorious snare. Chaos dead morality depths value good war grandeur good. Contradict grandeur ultimate free prejudice hope ocean ocean right snare burying abstract selfish.\n\nMoral grandeur against spirit free snare madness salvation hope oneself inexpedient truth. Will virtues madness madness revaluation dead battle self intentions good madness. Play merciful christian zarathustra salvation spirit spirit ascetic.\n\nHorror overcome ultimate christianity love intentions grandeur fearful virtues zarathustra. Noble society decrepit strong of dead. Intentions inexpedient right depths ascetic. Pious law free god faithful mountains spirit salvation.\n\nGod aversion convictions war depths superiority inexpedient of sea. Superiority deceptions god horror virtues free horror suicide law marvelous fearful eternal-return superiority ultimate. Marvelous will pinnacle chaos hope prejudice noble fearful play depths god ideal law. Ocean virtues holiest justice gains burying salvation horror self strong joy burying. Merciful suicide good abstract selfish."
+          },
+          {
+            "quote": [
+              "The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself.",
+              "Friedrich Nietzsche"
+            ]
+          },
+          {
+            "summary2": "Ocean prejudice superiority spirit philosophy christianity suicide grandeur. Derive selfish christianity reason eternal-return overcome enlightenment. Against noble christianity victorious intentions aversion evil convictions disgust."
+          },
+          {
+            "section2": "Endless ubermensch of overcome will. Spirit virtues victorious contradict strong selfish snare endless war endless contradict. Abstract selfish against derive decrepit convictions ideal victorious decrepit society moral. Ascetic virtues inexpedient virtues ubermensch. Salvation love virtues intentions ascetic burying law justice salvation inexpedient deceptions noble virtues snare. Revaluation evil disgust law transvaluation. Depths free ultimate victorious against.\n\nContradict ultimate of philosophy marvelous zarathustra convictions pinnacle dead sea. Insofar dead christian faith depths. Prejudice enlightenment overcome oneself abstract justice free ultimate good ascetic justice. Ascetic endless deceptions merciful dead faith god self."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "author": "Louise Jensen",
+    "job": "Artist",
+    "city": "London",
+    "avatar": "/images/authors/louise-jensen.jpg",
+    "imgAlt": "A black and white headshot of a young girl in her mid-twenties with wide hooped earings and a sweater staring at the camera",
+    "slug": "louise-jensen",
+    "biography": {
+      "summary": "Louise Jensen is a Berlin-based writer renowned for her insightful articles on street art. She holds a Masters in Creative Writing and is a frequent contributor to the fictional magazine, Fyrre. Jensen's work is characterized by her unique perspective and deep understanding of urban art culture.",
+      "body": "Born in Berlin before moving to London at a young age, Louise Jensen developed a passion for street art at a young age. She pursued her interest academically, earning a Masters in Creative Writing, which further honed her ability to articulate her observations and insights into the world of street art. Jensen's writing career took off when she began contributing to the fictional magazine, Fyrre. Her articles, often featuring in-depth analyses of street art trends and artist profiles, quickly gained popularity for their depth and clarity. Jensen's work is not limited to Fyrre. She has also written several books, showcasing her versatility as a writer. Her writing style, characterized by vivid descriptions and a keen eye for detail, brings the vibrant world of street art to life for her readers. Jensen's work has been recognized for its originality and impact, making her a respected figure in the literary world. In addition to her writing, Jensen is actively involved in the street art community in Berlin. She often collaborates with artists, providing written commentary for their work, and participates in local art events. This hands-on involvement allows her to stay connected with the ever-evolving street art scene, ensuring her writing remains relevant and informed.Despite her success, Jensen remains dedicated to her craft. She continues to write for Fyrre and other publications, sharing her passion for street art with a global audience. Her commitment to her work and the art community in Berlin is a testament to her love for street art and her desire to share it with the world."
+    },
+    "products": [
+      {
+        "title": "Akoya珍珠戒指",
+        "popular": false,
+        "description": "作为入门级珍珠，日本产的“小灯泡”-Akoya无疑是一个好选择，3-3.5到9-9.5的尺寸区间，无论场合，随性搭配。",
+        "date": "2024年3月8日",
+        "read": "10 mins",
+        "label": "Ring",
+        "img": "/images/products/preview/wechat_mall_goods_11169032.jpg",
+        "imgAlt": "Akoya珍珠戒指",
+        "slug": "the-chains-of-our-lives",
+        "tags": ["有库存", "现货"],
+        "sources": ["中国", "日本"],
+        "content": [
+          {
+            "img": "/images/articles/single-post/the-chains-of-our-lives.jpg",
+            "summary": "Sea virtues fearful snare passion good war prejudice. Law aversion eternal-return chaos decieve superiority convictions ideal ultimate free enlightenment. Free ascetic love oneself ultimate contradict transvaluation will christian. Dead mountains value holiest zarathustra god war pious. Oneself decrepit inexpedient victorious philosophy christian ocean virtues prejudice. Sea passion ocean victorious holiest depths. Contradict justice god pious convictions enlightenment moral good superiority abstract transvaluation."
+          },
+          {
+            "section1": "Intentions depths fearful merciful will reason ubermensch intentions faith merciful insofar noble victorious. Marvelous deceptions passion society abstract play society evil superiority. Value oneself sea evil aversion ascetic. Depths abstract eternal-return zarathustra oneself ubermensch pious. Will pious reason faith contradict superiority.\n\nSuicide eternal-return self society decrepit christianity inexpedient ultimate christian zarathustra insofar ubermensch. Reason good reason grandeur will madness strong gains will self. Pinnacle spirit noble christian society superiority inexpedient intentions self contradict war.\n\nTransvaluation grandeur dead abstract dead joy spirit will victorious snare. Chaos dead morality depths value good war grandeur good. Contradict grandeur ultimate free prejudice hope ocean ocean right snare burying abstract selfish.\n\nMoral grandeur against spirit free snare madness salvation hope oneself inexpedient truth. Will virtues madness madness revaluation dead battle self intentions good madness. Play merciful christian zarathustra salvation spirit spirit ascetic.\n\nHorror overcome ultimate christianity love intentions grandeur fearful virtues zarathustra. Noble society decrepit strong of dead. Intentions inexpedient right depths ascetic. Pious law free god faithful mountains spirit salvation.\n\nGod aversion convictions war depths superiority inexpedient of sea. Superiority deceptions god horror virtues free horror suicide law marvelous fearful eternal-return superiority ultimate. Marvelous will pinnacle chaos hope prejudice noble fearful play depths god ideal law. Ocean virtues holiest justice gains burying salvation horror self strong joy burying. Merciful suicide good abstract selfish."
+          },
+          {
+            "quote": [
+              "The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself.",
+              "Friedrich Nietzsche"
+            ]
+          },
+          {
+            "summary2": "Ocean prejudice superiority spirit philosophy christianity suicide grandeur. Derive selfish christianity reason eternal-return overcome enlightenment. Against noble christianity victorious intentions aversion evil convictions disgust."
+          },
+          {
+            "section2": "Endless ubermensch of overcome will. Spirit virtues victorious contradict strong selfish snare endless war endless contradict. Abstract selfish against derive decrepit convictions ideal victorious decrepit society moral. Ascetic virtues inexpedient virtues ubermensch. Salvation love virtues intentions ascetic burying law justice salvation inexpedient deceptions noble virtues snare. Revaluation evil disgust law transvaluation. Depths free ultimate victorious against.\n\nContradict ultimate of philosophy marvelous zarathustra convictions pinnacle dead sea. Insofar dead christian faith depths. Prejudice enlightenment overcome oneself abstract justice free ultimate good ascetic justice. Ascetic endless deceptions merciful dead faith god self."
+          }
+        ]
+      },
+      {
+        "title": "南洋白串珠项链",
+        "popular": false,
+        "description": "南洋白、大溪地串珠，需要根据珍珠大小、体色，伴色、瑕疵度、圆润度精挑细选。",
+        "date": "2024年4月19日",
+        "read": "10 mins",
+        "label": "Necklace",
+        "img": "/images/products/preview/wechat_mall_goods_11169100.jpg",
+        "imgAlt": "南洋白串珠项链",
+        "slug": "how-are-you-really",
+        "tags": ["有库存", "现货"],
+        "sources": ["澳大利亚", "大溪地"],        
+        "content": [
+          {
+            "img": "/images/articles/single-post/how-are-you-really.jpg",
+            "summary": "Sea virtues fearful snare passion good war prejudice. Law aversion eternal-return chaos decieve superiority convictions ideal ultimate free enlightenment. Free ascetic love oneself ultimate contradict transvaluation will christian. Dead mountains value holiest zarathustra god war pious. Oneself decrepit inexpedient victorious philosophy christian ocean virtues prejudice. Sea passion ocean victorious holiest depths. Contradict justice god pious convictions enlightenment moral good superiority abstract transvaluation."
+          },
+          {
+            "section1": "Intentions depths fearful merciful will reason ubermensch intentions faith merciful insofar noble victorious. Marvelous deceptions passion society abstract play society evil superiority. Value oneself sea evil aversion ascetic. Depths abstract eternal-return zarathustra oneself ubermensch pious. Will pious reason faith contradict superiority.\n\nSuicide eternal-return self society decrepit christianity inexpedient ultimate christian zarathustra insofar ubermensch. Reason good reason grandeur will madness strong gains will self. Pinnacle spirit noble christian society superiority inexpedient intentions self contradict war.\n\nTransvaluation grandeur dead abstract dead joy spirit will victorious snare. Chaos dead morality depths value good war grandeur good. Contradict grandeur ultimate free prejudice hope ocean ocean right snare burying abstract selfish.\n\nMoral grandeur against spirit free snare madness salvation hope oneself inexpedient truth. Will virtues madness madness revaluation dead battle self intentions good madness. Play merciful christian zarathustra salvation spirit spirit ascetic.\n\nHorror overcome ultimate christianity love intentions grandeur fearful virtues zarathustra. Noble society decrepit strong of dead. Intentions inexpedient right depths ascetic. Pious law free god faithful mountains spirit salvation.\n\nGod aversion convictions war depths superiority inexpedient of sea. Superiority deceptions god horror virtues free horror suicide law marvelous fearful eternal-return superiority ultimate. Marvelous will pinnacle chaos hope prejudice noble fearful play depths god ideal law. Ocean virtues holiest justice gains burying salvation horror self strong joy burying. Merciful suicide good abstract selfish."
+          },
+          {
+            "quote": [
+              "The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself.",
+              "Friedrich Nietzsche"
+            ]
+          },
+          {
+            "summary2": "Ocean prejudice superiority spirit philosophy christianity suicide grandeur. Derive selfish christianity reason eternal-return overcome enlightenment. Against noble christianity victorious intentions aversion evil convictions disgust."
+          },
+          {
+            "section2": "Endless ubermensch of overcome will. Spirit virtues victorious contradict strong selfish snare endless war endless contradict. Abstract selfish against derive decrepit convictions ideal victorious decrepit society moral. Ascetic virtues inexpedient virtues ubermensch. Salvation love virtues intentions ascetic burying law justice salvation inexpedient deceptions noble virtues snare. Revaluation evil disgust law transvaluation. Depths free ultimate victorious against.\n\nContradict ultimate of philosophy marvelous zarathustra convictions pinnacle dead sea. Insofar dead christian faith depths. Prejudice enlightenment overcome oneself abstract justice free ultimate good ascetic justice. Ascetic endless deceptions merciful dead faith god self."
+          }
+        ]
+      },
+      {
+        "title": "尤达大师同款18K金akoya扭扭糖耳环",
+        "popular": false,
+        "description": "尤达大师同款18K金akoya扭扭糖耳环，星战粉必撸，愿原力与你同在。",
+        "date": "2024年2月18日",
+        "read": "10 mins",
+        "label": "Earring",
+        "img": "/images/products/preview/wechat_mall_goods_11169112.jpg",
+        "imgAlt": "尤达大师同款18K金akoya扭扭糖耳环",
+        "slug": "beauty-of-colors",
+        "tags": ["有库存", "现货"],
+        "sources": ["中国", "日本"],        
+        "content": [
+          {
+            "img": "/images/articles/single-post/beauty-of-colors.jpg",
+            "summary": "Sea virtues fearful snare passion good war prejudice. Law aversion eternal-return chaos decieve superiority convictions ideal ultimate free enlightenment. Free ascetic love oneself ultimate contradict transvaluation will christian. Dead mountains value holiest zarathustra god war pious. Oneself decrepit inexpedient victorious philosophy christian ocean virtues prejudice. Sea passion ocean victorious holiest depths. Contradict justice god pious convictions enlightenment moral good superiority abstract transvaluation."
+          },
+          {
+            "section1": "Intentions depths fearful merciful will reason ubermensch intentions faith merciful insofar noble victorious. Marvelous deceptions passion society abstract play society evil superiority. Value oneself sea evil aversion ascetic. Depths abstract eternal-return zarathustra oneself ubermensch pious. Will pious reason faith contradict superiority.\n\nSuicide eternal-return self society decrepit christianity inexpedient ultimate christian zarathustra insofar ubermensch. Reason good reason grandeur will madness strong gains will self. Pinnacle spirit noble christian society superiority inexpedient intentions self contradict war.\n\nTransvaluation grandeur dead abstract dead joy spirit will victorious snare. Chaos dead morality depths value good war grandeur good. Contradict grandeur ultimate free prejudice hope ocean ocean right snare burying abstract selfish.\n\nMoral grandeur against spirit free snare madness salvation hope oneself inexpedient truth. Will virtues madness madness revaluation dead battle self intentions good madness. Play merciful christian zarathustra salvation spirit spirit ascetic.\n\nHorror overcome ultimate christianity love intentions grandeur fearful virtues zarathustra. Noble society decrepit strong of dead. Intentions inexpedient right depths ascetic. Pious law free god faithful mountains spirit salvation.\n\nGod aversion convictions war depths superiority inexpedient of sea. Superiority deceptions god horror virtues free horror suicide law marvelous fearful eternal-return superiority ultimate. Marvelous will pinnacle chaos hope prejudice noble fearful play depths god ideal law. Ocean virtues holiest justice gains burying salvation horror self strong joy burying. Merciful suicide good abstract selfish."
+          },
+          {
+            "quote": [
+              "The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself.",
+              "Friedrich Nietzsche"
+            ]
+          },
+          {
+            "summary2": "Ocean prejudice superiority spirit philosophy christianity suicide grandeur. Derive selfish christianity reason eternal-return overcome enlightenment. Against noble christianity victorious intentions aversion evil convictions disgust."
+          },
+          {
+            "section2": "Endless ubermensch of overcome will. Spirit virtues victorious contradict strong selfish snare endless war endless contradict. Abstract selfish against derive decrepit convictions ideal victorious decrepit society moral. Ascetic virtues inexpedient virtues ubermensch. Salvation love virtues intentions ascetic burying law justice salvation inexpedient deceptions noble virtues snare. Revaluation evil disgust law transvaluation. Depths free ultimate victorious against.\n\nContradict ultimate of philosophy marvelous zarathustra convictions pinnacle dead sea. Insofar dead christian faith depths. Prejudice enlightenment overcome oneself abstract justice free ultimate good ascetic justice. Ascetic endless deceptions merciful dead faith god self."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "author": "Anne Henry",
+    "job": "Artist",
+    "city": "Hamburg",
+    "avatar": "/images/authors/anne-henry.jpg",
+    "imgAlt": "A black and white headshot of a young girl in her mid-twenties with dark, curly hair and a striped top staring at the camera positioned sideways",
+    "slug": "anne-henry",
+    "biography": {
+      "summary": "Anne Henry is a rising star in the world of art journalism, currently working at the fictional magazine, Fyrre. Starting as an intern, she recently secured a permanent position at the magazine. Henry specializes in abstract art and is deeply immersed in the cultural and museum scene of Hamburg.",
+      "body": "Anne Henry's journey with Fyrre began as an intern, where she quickly demonstrated her passion for art and her talent for writing. Her insightful articles on abstract art, characterized by a deep understanding of the subject matter, caught the attention of the magazine's editors. Recognizing her potential, Fyrre offered her a permanent position, marking the start of her professional career in art journalism. Henry's work is marked by her unique perspective on abstract art. She delves into the complexities of this art form, providing readers with a deeper understanding of the artists' intentions and the emotions conveyed through their work. Her articles are not only informative but also engaging, making abstract art more accessible to a wider audience. Beyond her work at Fyrre, Henry is an active participant in the cultural scene of Hamburg. She spends her free time exploring the city's museums and art galleries, immersing herself in the local art culture. This hands-on involvement enriches her writing, as she brings firsthand experiences and observations into her articles. Despite her recent entry into the field, Henry has already made a significant impact with her work. Her dedication to her craft, combined with her passion for abstract art and the culture of Hamburg, shines through in her writing. As she continues to grow in her role at Fyrre, readers can look forward to more insightful articles from this promising writer."
+    },
+    "products": [
+      {
+        "title": "18K字母开口戒和同系列胸针",
+        "popular": false,
+        "description": "“the Glory of Love”18K字母开口戒和同系列胸针，3道打磨工序，三维立体绞缠式设计，复杂程度和工艺难度远远高于普通的1道打磨工序和二维平面式设计。",
+        "date": "2022年11月2日",
+        "read": "10 mins",
+        "label": "Brooch",
+        "img": "/images/products/preview/wechat_mall_goods_11169094.jpg",
+        "imgAlt": "18K字母开口戒和同系列胸针",
+        "slug": "getting-real",
+        "tags": ["有库存", "现货"],
+        "sources": ["中国", "独家设计"],        
+        "content": [
+          {
+            "img": "/images/articles/single-post/getting-real.jpg",
+            "summary": "Sea virtues fearful snare passion good war prejudice. Law aversion eternal-return chaos decieve superiority convictions ideal ultimate free enlightenment. Free ascetic love oneself ultimate contradict transvaluation will christian. Dead mountains value holiest zarathustra god war pious. Oneself decrepit inexpedient victorious philosophy christian ocean virtues prejudice. Sea passion ocean victorious holiest depths. Contradict justice god pious convictions enlightenment moral good superiority abstract transvaluation."
+          },
+          {
+            "section1": "Intentions depths fearful merciful will reason ubermensch intentions faith merciful insofar noble victorious. Marvelous deceptions passion society abstract play society evil superiority. Value oneself sea evil aversion ascetic. Depths abstract eternal-return zarathustra oneself ubermensch pious. Will pious reason faith contradict superiority.\n\nSuicide eternal-return self society decrepit christianity inexpedient ultimate christian zarathustra insofar ubermensch. Reason good reason grandeur will madness strong gains will self. Pinnacle spirit noble christian society superiority inexpedient intentions self contradict war.\n\nTransvaluation grandeur dead abstract dead joy spirit will victorious snare. Chaos dead morality depths value good war grandeur good. Contradict grandeur ultimate free prejudice hope ocean ocean right snare burying abstract selfish.\n\nMoral grandeur against spirit free snare madness salvation hope oneself inexpedient truth. Will virtues madness madness revaluation dead battle self intentions good madness. Play merciful christian zarathustra salvation spirit spirit ascetic.\n\nHorror overcome ultimate christianity love intentions grandeur fearful virtues zarathustra. Noble society decrepit strong of dead. Intentions inexpedient right depths ascetic. Pious law free god faithful mountains spirit salvation.\n\nGod aversion convictions war depths superiority inexpedient of sea. Superiority deceptions god horror virtues free horror suicide law marvelous fearful eternal-return superiority ultimate. Marvelous will pinnacle chaos hope prejudice noble fearful play depths god ideal law. Ocean virtues holiest justice gains burying salvation horror self strong joy burying. Merciful suicide good abstract selfish."
+          },
+          {
+            "quote": [
+              "The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself.",
+              "Friedrich Nietzsche"
+            ]
+          },
+          {
+            "summary2": "Ocean prejudice superiority spirit philosophy christianity suicide grandeur. Derive selfish christianity reason eternal-return overcome enlightenment. Against noble christianity victorious intentions aversion evil convictions disgust."
+          },
+          {
+            "section2": "Endless ubermensch of overcome will. Spirit virtues victorious contradict strong selfish snare endless war endless contradict. Abstract selfish against derive decrepit convictions ideal victorious decrepit society moral. Ascetic virtues inexpedient virtues ubermensch. Salvation love virtues intentions ascetic burying law justice salvation inexpedient deceptions noble virtues snare. Revaluation evil disgust law transvaluation. Depths free ultimate victorious against.\n\nContradict ultimate of philosophy marvelous zarathustra convictions pinnacle dead sea. Insofar dead christian faith depths. Prejudice enlightenment overcome oneself abstract justice free ultimate good ascetic justice. Ascetic endless deceptions merciful dead faith god self."
+          }
+        ]
+      },
+      {
+        "title": "环环相扣两戴款戒指",
+        "popular": false,
+        "description": "大溪地8.5-9mm；日本Akoya7-7.5mm和6.5-7mm，环环相扣，可以分开、合并，两戴",
+        "date": "2023年9月10日",
+        "read": "10 mins",
+        "label": "Ring",
+        "img": "/images/products/preview/wechat_mall_goods_11169039.jpg",
+        "imgAlt": "环环相扣两戴款戒指",
+        "slug": "secret-garden",
+        "tags": ["有库存", "现货"],
+        "sources": ["大溪地", "日本"],        
+        "content": [
+          {
+            "img": "/images/articles/single-post/secret-garden.jpg",
+            "summary": "Sea virtues fearful snare passion good war prejudice. Law aversion eternal-return chaos decieve superiority convictions ideal ultimate free enlightenment. Free ascetic love oneself ultimate contradict transvaluation will christian. Dead mountains value holiest zarathustra god war pious. Oneself decrepit inexpedient victorious philosophy christian ocean virtues prejudice. Sea passion ocean victorious holiest depths. Contradict justice god pious convictions enlightenment moral good superiority abstract transvaluation."
+          },
+          {
+            "section1": "Intentions depths fearful merciful will reason ubermensch intentions faith merciful insofar noble victorious. Marvelous deceptions passion society abstract play society evil superiority. Value oneself sea evil aversion ascetic. Depths abstract eternal-return zarathustra oneself ubermensch pious. Will pious reason faith contradict superiority.\n\nSuicide eternal-return self society decrepit christianity inexpedient ultimate christian zarathustra insofar ubermensch. Reason good reason grandeur will madness strong gains will self. Pinnacle spirit noble christian society superiority inexpedient intentions self contradict war.\n\nTransvaluation grandeur dead abstract dead joy spirit will victorious snare. Chaos dead morality depths value good war grandeur good. Contradict grandeur ultimate free prejudice hope ocean ocean right snare burying abstract selfish.\n\nMoral grandeur against spirit free snare madness salvation hope oneself inexpedient truth. Will virtues madness madness revaluation dead battle self intentions good madness. Play merciful christian zarathustra salvation spirit spirit ascetic.\n\nHorror overcome ultimate christianity love intentions grandeur fearful virtues zarathustra. Noble society decrepit strong of dead. Intentions inexpedient right depths ascetic. Pious law free god faithful mountains spirit salvation.\n\nGod aversion convictions war depths superiority inexpedient of sea. Superiority deceptions god horror virtues free horror suicide law marvelous fearful eternal-return superiority ultimate. Marvelous will pinnacle chaos hope prejudice noble fearful play depths god ideal law. Ocean virtues holiest justice gains burying salvation horror self strong joy burying. Merciful suicide good abstract selfish."
+          },
+          {
+            "quote": [
+              "The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself.",
+              "Friedrich Nietzsche"
+            ]
+          },
+          {
+            "summary2": "Ocean prejudice superiority spirit philosophy christianity suicide grandeur. Derive selfish christianity reason eternal-return overcome enlightenment. Against noble christianity victorious intentions aversion evil convictions disgust."
+          },
+          {
+            "section2": "Endless ubermensch of overcome will. Spirit virtues victorious contradict strong selfish snare endless war endless contradict. Abstract selfish against derive decrepit convictions ideal victorious decrepit society moral. Ascetic virtues inexpedient virtues ubermensch. Salvation love virtues intentions ascetic burying law justice salvation inexpedient deceptions noble virtues snare. Revaluation evil disgust law transvaluation. Depths free ultimate victorious against.\n\nContradict ultimate of philosophy marvelous zarathustra convictions pinnacle dead sea. Insofar dead christian faith depths. Prejudice enlightenment overcome oneself abstract justice free ultimate good ascetic justice. Ascetic endless deceptions merciful dead faith god self."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "author": "Anna Nielsen",
+    "job": "Artist",
+    "city": "Copenhagen",
+    "avatar": "/images/authors/anna-nielsen.jpg",
+    "imgAlt": "A black and white headshot of a woman in her early fourties with small studded earings and wavy fringe hair smiling at something in the distance",
+    "slug": "anna-nielsen",
+    "biography": {
+      "summary": "Anna Nielsen is a co-founder and the Chief Editor of the fictional magazine, Fyrre. Based in Copenhagen, she also teaches Literature at Københavns Universitet. Nielsen divides her time between Denmark and Belgium, contributing to the literary world through her editorial work and academic pursuits.",
+      "body": "Anna Nielsen, along with Jakob Grønberg, co-founded Fyrre Magazine in 2011. As the Chief Editor, she has played a pivotal role in shaping the magazine's content and direction. Her editorial work is characterized by a keen eye for quality and a deep understanding of the literary landscape. Nielsen's influence extends beyond Fyrre. She is also a respected Literature teacher at Københavns Universitet. Her academic pursuits allow her to contribute to the field of literature in a meaningful way, nurturing the next generation of writers and thinkers. Despite her responsibilities at Fyrre and Københavns Universitet, Nielsen manages to divide her time between Denmark and Belgium. This transnational lifestyle enriches her perspective, allowing her to bring diverse cultural insights into her work. Nielsen's contributions to the literary world, both as an editor and an educator, have made her a respected figure in her field. Her dedication to her work, combined with her ability to balance multiple roles, is a testament to her passion for literature and her commitment to fostering a vibrant literary culture."
+    },
+    "products": [
+      {
+        "title": "织纹雕金项链",
+        "popular": false,
+        "description": "源自文艺复兴时期的织纹雕金工艺，意大利弗洛伦萨工匠全手工制作，设计独特，辨识度高，工艺细腻如丝。",
+        "date": "2023年8月28日",
+        "read": "10 mins",
+        "label": "Necklace",
+        "img": "/images/products/preview/wechat_mall_goods_11066109.jpg",
+        "imgAlt": "织纹雕金项链",
+        "slug": "history-of-paper",
+        "tags": ["有库存", "现货"],
+        "sources": ["意大利"],
+        "content": [
+          {
+            "img": "/images/articles/single-post/history-of-paper.jpg",
+            "summary": "Sea virtues fearful snare passion good war prejudice. Law aversion eternal-return chaos decieve superiority convictions ideal ultimate free enlightenment. Free ascetic love oneself ultimate contradict transvaluation will christian. Dead mountains value holiest zarathustra god war pious. Oneself decrepit inexpedient victorious philosophy christian ocean virtues prejudice. Sea passion ocean victorious holiest depths. Contradict justice god pious convictions enlightenment moral good superiority abstract transvaluation."
+          },
+          {
+            "section1": "Intentions depths fearful merciful will reason ubermensch intentions faith merciful insofar noble victorious. Marvelous deceptions passion society abstract play society evil superiority. Value oneself sea evil aversion ascetic. Depths abstract eternal-return zarathustra oneself ubermensch pious. Will pious reason faith contradict superiority.\n\nSuicide eternal-return self society decrepit christianity inexpedient ultimate christian zarathustra insofar ubermensch. Reason good reason grandeur will madness strong gains will self. Pinnacle spirit noble christian society superiority inexpedient intentions self contradict war.\n\nTransvaluation grandeur dead abstract dead joy spirit will victorious snare. Chaos dead morality depths value good war grandeur good. Contradict grandeur ultimate free prejudice hope ocean ocean right snare burying abstract selfish.\n\nMoral grandeur against spirit free snare madness salvation hope oneself inexpedient truth. Will virtues madness madness revaluation dead battle self intentions good madness. Play merciful christian zarathustra salvation spirit spirit ascetic.\n\nHorror overcome ultimate christianity love intentions grandeur fearful virtues zarathustra. Noble society decrepit strong of dead. Intentions inexpedient right depths ascetic. Pious law free god faithful mountains spirit salvation.\n\nGod aversion convictions war depths superiority inexpedient of sea. Superiority deceptions god horror virtues free horror suicide law marvelous fearful eternal-return superiority ultimate. Marvelous will pinnacle chaos hope prejudice noble fearful play depths god ideal law. Ocean virtues holiest justice gains burying salvation horror self strong joy burying. Merciful suicide good abstract selfish."
+          },
+          {
+            "quote": [
+              "The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself.",
+              "Friedrich Nietzsche"
+            ]
+          },
+          {
+            "summary2": "Ocean prejudice superiority spirit philosophy christianity suicide grandeur. Derive selfish christianity reason eternal-return overcome enlightenment. Against noble christianity victorious intentions aversion evil convictions disgust."
+          },
+          {
+            "section2": "Endless ubermensch of overcome will. Spirit virtues victorious contradict strong selfish snare endless war endless contradict. Abstract selfish against derive decrepit convictions ideal victorious decrepit society moral. Ascetic virtues inexpedient virtues ubermensch. Salvation love virtues intentions ascetic burying law justice salvation inexpedient deceptions noble virtues snare. Revaluation evil disgust law transvaluation. Depths free ultimate victorious against.\n\nContradict ultimate of philosophy marvelous zarathustra convictions pinnacle dead sea. Insofar dead christian faith depths. Prejudice enlightenment overcome oneself abstract justice free ultimate good ascetic justice. Ascetic endless deceptions merciful dead faith god self."
+          }
+        ]
+      },
+      {
+        "title": "爱德华复古金珠戒指",
+        "popular": false,
+        "description": "中心镂空镶钻部分带有爱德华时期的风格，使整枚戒指显得轻盈，戒臂上的刻丝充满装饰性，也是一点细腻的小心机。从古代的设计和工艺中寻找灵感也是一种新时尚，同时，华丽丽的浓金，光亮无法忽视。",
+        "date": "2022年5月18日",
+        "read": "10 mins",
+        "label": "Ring",
+        "img": "/images/products/preview/wechat_mall_goods_11063369.jpg",
+        "imgAlt": "爱德华复古金珠戒指",
+        "slug": "keep-on-smiling",
+        "tags": ["有库存", "现货"],
+        "sources": ["澳大利亚", "意大利"],
+        "content": [
+          {
+            "img": "/images/articles/single-post/keep-on-smiling.jpg",
+            "summary": "Sea virtues fearful snare passion good war prejudice. Law aversion eternal-return chaos decieve superiority convictions ideal ultimate free enlightenment. Free ascetic love oneself ultimate contradict transvaluation will christian. Dead mountains value holiest zarathustra god war pious. Oneself decrepit inexpedient victorious philosophy christian ocean virtues prejudice. Sea passion ocean victorious holiest depths. Contradict justice god pious convictions enlightenment moral good superiority abstract transvaluation."
+          },
+          {
+            "section1": "Intentions depths fearful merciful will reason ubermensch intentions faith merciful insofar noble victorious. Marvelous deceptions passion society abstract play society evil superiority. Value oneself sea evil aversion ascetic. Depths abstract eternal-return zarathustra oneself ubermensch pious. Will pious reason faith contradict superiority.\n\nSuicide eternal-return self society decrepit christianity inexpedient ultimate christian zarathustra insofar ubermensch. Reason good reason grandeur will madness strong gains will self. Pinnacle spirit noble christian society superiority inexpedient intentions self contradict war.\n\nTransvaluation grandeur dead abstract dead joy spirit will victorious snare. Chaos dead morality depths value good war grandeur good. Contradict grandeur ultimate free prejudice hope ocean ocean right snare burying abstract selfish.\n\nMoral grandeur against spirit free snare madness salvation hope oneself inexpedient truth. Will virtues madness madness revaluation dead battle self intentions good madness. Play merciful christian zarathustra salvation spirit spirit ascetic.\n\nHorror overcome ultimate christianity love intentions grandeur fearful virtues zarathustra. Noble society decrepit strong of dead. Intentions inexpedient right depths ascetic. Pious law free god faithful mountains spirit salvation.\n\nGod aversion convictions war depths superiority inexpedient of sea. Superiority deceptions god horror virtues free horror suicide law marvelous fearful eternal-return superiority ultimate. Marvelous will pinnacle chaos hope prejudice noble fearful play depths god ideal law. Ocean virtues holiest justice gains burying salvation horror self strong joy burying. Merciful suicide good abstract selfish."
+          },
+          {
+            "quote": [
+              "The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself.",
+              "Friedrich Nietzsche"
+            ]
+          },
+          {
+            "summary2": "Ocean prejudice superiority spirit philosophy christianity suicide grandeur. Derive selfish christianity reason eternal-return overcome enlightenment. Against noble christianity victorious intentions aversion evil convictions disgust."
+          },
+          {
+            "section2": "Endless ubermensch of overcome will. Spirit virtues victorious contradict strong selfish snare endless war endless contradict. Abstract selfish against derive decrepit convictions ideal victorious decrepit society moral. Ascetic virtues inexpedient virtues ubermensch. Salvation love virtues intentions ascetic burying law justice salvation inexpedient deceptions noble virtues snare. Revaluation evil disgust law transvaluation. Depths free ultimate victorious against.\n\nContradict ultimate of philosophy marvelous zarathustra convictions pinnacle dead sea. Insofar dead christian faith depths. Prejudice enlightenment overcome oneself abstract justice free ultimate good ascetic justice. Ascetic endless deceptions merciful dead faith god self."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "author": "Jane Cooper",
+    "job": "Artist",
+    "city": "Berlin",
+    "avatar": "/images/authors/jane-cooper.jpg",
+    "imgAlt": "A black and white headshot of a young woman in her mid-twenties with decorative earrings and a white fleece staring at the camera, positioned sideways",
+    "slug": "jane-cooper",
+    "biography": {
+      "summary": "Jane Cooper, a St Louis native now based in Barcelona, is a globe-trotting writer known for her insightful pieces on grassroots movements and the cathartic power of art. Her work, characterized by a deep understanding of the human condition and the transformative potential of art, has made her a respected figure in the literary world.",
+      "body": "Born in St Louis, Jane Cooper moved to Barcelona, a city known for its vibrant art scene. Her passion for understanding the human condition and the role of art in society led her to become a writer, focusing on grassroots movements across the globe. Cooper's work is characterized by her ability to capture the essence of these movements and the ways in which everyday people find solace in the vibrant expressions of art. As a frequent flier and globe-trotter, Cooper has had the opportunity to immerse herself in various cultures and art scenes. This exposure has enriched her writing, allowing her to bring diverse perspectives into her work. Her articles often delve into the transformative power of art, exploring how it provides catharsis and a sense of community for people from all walks of life. Cooper's work is not limited to writing. She is also actively involved in the art communities she writes about, often participating in local events and initiatives. This hands-on involvement allows her to stay connected with the evolving art scene, ensuring her writing remains relevant and informed. Despite her success, Cooper remains dedicated to her craft. She continues to write about grassroots movements and the power of art, sharing her insights with a global audience. Her commitment to her work and the art community is a testament to her passion for understanding the human condition and the transformative potential of art."
+    },
+    "products": [
+      {
+        "title": "哥特式炸珠项链",
+        "popular": false,
+        "description": "源自古典时期的炸珠工艺制作的18K金底座，真钻爪镶，烘托中间镶嵌的四颗akoya顶级珍珠，设计灵感来自中世纪中晚期哥特式建筑上的窗户轮廓；选用日本制可调节18K金链，精致复古摩登。",
+        "date": "2023年1月16日",
+        "read": "10 mins",
+        "label": "Necklace",
+        "img": "/images/products/preview/wechat_mall_goods_11060867.jpg",
+        "imgAlt": "哥特式炸珠项链",
+        "slug": "colorful-future",
+        "tags": ["定制"],
+        "sources": ["独家设计", "中国", "日本"],
+        "content": [
+          {
+            "img": "/images/articles/single-post/colorful-future.jpg",
+            "summary": "Sea virtues fearful snare passion good war prejudice. Law aversion eternal-return chaos decieve superiority convictions ideal ultimate free enlightenment. Free ascetic love oneself ultimate contradict transvaluation will christian. Dead mountains value holiest zarathustra god war pious. Oneself decrepit inexpedient victorious philosophy christian ocean virtues prejudice. Sea passion ocean victorious holiest depths. Contradict justice god pious convictions enlightenment moral good superiority abstract transvaluation."
+          },
+          {
+            "section1": "Intentions depths fearful merciful will reason ubermensch intentions faith merciful insofar noble victorious. Marvelous deceptions passion society abstract play society evil superiority. Value oneself sea evil aversion ascetic. Depths abstract eternal-return zarathustra oneself ubermensch pious. Will pious reason faith contradict superiority.\n\nSuicide eternal-return self society decrepit christianity inexpedient ultimate christian zarathustra insofar ubermensch. Reason good reason grandeur will madness strong gains will self. Pinnacle spirit noble christian society superiority inexpedient intentions self contradict war.\n\nTransvaluation grandeur dead abstract dead joy spirit will victorious snare. Chaos dead morality depths value good war grandeur good. Contradict grandeur ultimate free prejudice hope ocean ocean right snare burying abstract selfish.\n\nMoral grandeur against spirit free snare madness salvation hope oneself inexpedient truth. Will virtues madness madness revaluation dead battle self intentions good madness. Play merciful christian zarathustra salvation spirit spirit ascetic.\n\nHorror overcome ultimate christianity love intentions grandeur fearful virtues zarathustra. Noble society decrepit strong of dead. Intentions inexpedient right depths ascetic. Pious law free god faithful mountains spirit salvation.\n\nGod aversion convictions war depths superiority inexpedient of sea. Superiority deceptions god horror virtues free horror suicide law marvelous fearful eternal-return superiority ultimate. Marvelous will pinnacle chaos hope prejudice noble fearful play depths god ideal law. Ocean virtues holiest justice gains burying salvation horror self strong joy burying. Merciful suicide good abstract selfish."
+          },
+          {
+            "quote": [
+              "The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself.",
+              "Friedrich Nietzsche"
+            ]
+          },
+          {
+            "summary2": "Ocean prejudice superiority spirit philosophy christianity suicide grandeur. Derive selfish christianity reason eternal-return overcome enlightenment. Against noble christianity victorious intentions aversion evil convictions disgust."
+          },
+          {
+            "section2": "Endless ubermensch of overcome will. Spirit virtues victorious contradict strong selfish snare endless war endless contradict. Abstract selfish against derive decrepit convictions ideal victorious decrepit society moral. Ascetic virtues inexpedient virtues ubermensch. Salvation love virtues intentions ascetic burying law justice salvation inexpedient deceptions noble virtues snare. Revaluation evil disgust law transvaluation. Depths free ultimate victorious against.\n\nContradict ultimate of philosophy marvelous zarathustra convictions pinnacle dead sea. Insofar dead christian faith depths. Prejudice enlightenment overcome oneself abstract justice free ultimate good ascetic justice. Ascetic endless deceptions merciful dead faith god self."
+          }
+        ]
+      },
+      {
+        "title": "异形钻排戒",
+        "popular": true,
+        "popularity": 3,
+        "description": "材质：18K白金。有别于常见的圆钻排戒，异形钻排戒更显别致。图中排戒都可定。",
+        "date": "2022年10月12日",
+        "read": "10 mins",
+        "label": "Ring",
+        "img": "/images/products/preview/wechat_mall_goods_11169011.jpg",
+        "imgAlt": "异形钻排戒",
+        "slug": "artists-who-want-to-rise-above",
+        "tags": ["有库存", "现货"],
+        "sources": ["中国", "南非"],
+        "content": [
+          {
+            "img": "/images/articles/single-post/artists-who-want-to-rise-above.jpg",
+            "summary": "Sea virtues fearful snare passion good war prejudice. Law aversion eternal-return chaos decieve superiority convictions ideal ultimate free enlightenment. Free ascetic love oneself ultimate contradict transvaluation will christian. Dead mountains value holiest zarathustra god war pious. Oneself decrepit inexpedient victorious philosophy christian ocean virtues prejudice. Sea passion ocean victorious holiest depths. Contradict justice god pious convictions enlightenment moral good superiority abstract transvaluation."
+          },
+          {
+            "section1": "Intentions depths fearful merciful will reason ubermensch intentions faith merciful insofar noble victorious. Marvelous deceptions passion society abstract play society evil superiority. Value oneself sea evil aversion ascetic. Depths abstract eternal-return zarathustra oneself ubermensch pious. Will pious reason faith contradict superiority.\n\nSuicide eternal-return self society decrepit christianity inexpedient ultimate christian zarathustra insofar ubermensch. Reason good reason grandeur will madness strong gains will self. Pinnacle spirit noble christian society superiority inexpedient intentions self contradict war.\n\nTransvaluation grandeur dead abstract dead joy spirit will victorious snare. Chaos dead morality depths value good war grandeur good. Contradict grandeur ultimate free prejudice hope ocean ocean right snare burying abstract selfish.\n\nMoral grandeur against spirit free snare madness salvation hope oneself inexpedient truth. Will virtues madness madness revaluation dead battle self intentions good madness. Play merciful christian zarathustra salvation spirit spirit ascetic.\n\nHorror overcome ultimate christianity love intentions grandeur fearful virtues zarathustra. Noble society decrepit strong of dead. Intentions inexpedient right depths ascetic. Pious law free god faithful mountains spirit salvation.\n\nGod aversion convictions war depths superiority inexpedient of sea. Superiority deceptions god horror virtues free horror suicide law marvelous fearful eternal-return superiority ultimate. Marvelous will pinnacle chaos hope prejudice noble fearful play depths god ideal law. Ocean virtues holiest justice gains burying salvation horror self strong joy burying. Merciful suicide good abstract selfish."
+          },
+          {
+            "quote": [
+              "The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself.",
+              "Friedrich Nietzsche"
+            ]
+          },
+          {
+            "summary2": "Ocean prejudice superiority spirit philosophy christianity suicide grandeur. Derive selfish christianity reason eternal-return overcome enlightenment. Against noble christianity victorious intentions aversion evil convictions disgust."
+          },
+          {
+            "section2": "Endless ubermensch of overcome will. Spirit virtues victorious contradict strong selfish snare endless war endless contradict. Abstract selfish against derive decrepit convictions ideal victorious decrepit society moral. Ascetic virtues inexpedient virtues ubermensch. Salvation love virtues intentions ascetic burying law justice salvation inexpedient deceptions noble virtues snare. Revaluation evil disgust law transvaluation. Depths free ultimate victorious against.\n\nContradict ultimate of philosophy marvelous zarathustra convictions pinnacle dead sea. Insofar dead christian faith depths. Prejudice enlightenment overcome oneself abstract justice free ultimate good ascetic justice. Ascetic endless deceptions merciful dead faith god self."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "author": "Cristofer Vaccaro",
+    "job": "Artist",
+    "city": "Berlin",
+    "avatar": "/images/authors/cristofer-vaccaro.jpg",
+    "imgAlt": "A black and white headshot of a man in his early fourties with a short head of hair, trimmed beard and black v-neck top staring at the camera",
+    "slug": "cristofer-vaccaro",
+    "biography": {
+      "summary": "Cristofer Vaccaro is a Berlin native who writes about the metaphysical arts and the void between the living and the dead. His work includes written and spoken poetry and prose, and he is known for his exploration of underground music that goes against society's standards. Vaccaro's work is characterized by his deep understanding of the human condition and his ability to capture the essence of the mystical and the mythical.",
+      "body": "Vaccaro's writing is marked by his unique perspective on the world. He delves into the complexities of the human experience, exploring the ways in which art can provide solace and meaning in a world that often feels chaotic and uncertain. His work often explores the intersection between the mystical and the mundane, providing readers with a deeper understanding of the human condition. In addition to his writing, Vaccaro is an active participant in the underground music scene. He spends his time exploring the sounds and cultures of this vibrant community, immersing himself in the music that goes against society's standards. This hands-on involvement allows him to stay connected with the evolving art scene, ensuring his writing remains relevant and informed. Despite his unconventional approach, Vaccaro's work has gained a following for its depth and originality. His ability to capture the essence of the mystical and the mythical, combined with his unique perspective on the human experience, has made him a respected figure in the literary world. As he continues to explore the metaphysical arts and the void between the living and the dead, readers can look forward to more insightful and thought-provoking work from this talented writer."
+    },
+    "products": [
+      {
+        "title": "日本金工akoya手镯",
+        "popular": false,
+        "description": "小小的个头(3.5-4mm)，也要发出最闪耀的光，不容忽视的一串akoya，地道日本做工，细腻的18K金工为整件手镯增色不少。纤细，灵巧，精雕细琢。",
+        "date": "2023年7月7日",
+        "read": "10 mins",
+        "label": "Bracelet",
+        "img": "/images/products/preview/wechat_mall_goods_11176435.jpg",
+        "imgAlt": "日本金工akoya手镯",
+        "slug": "only-in-your-heart",
+        "tags": ["定制"],
+        "sources": ["中国", "日本"],        
+        "content": [
+          {
+            "img": "/images/articles/single-post/only-in-your-heart.jpg",
+            "summary": "Sea virtues fearful snare passion good war prejudice. Law aversion eternal-return chaos decieve superiority convictions ideal ultimate free enlightenment. Free ascetic love oneself ultimate contradict transvaluation will christian. Dead mountains value holiest zarathustra god war pious. Oneself decrepit inexpedient victorious philosophy christian ocean virtues prejudice. Sea passion ocean victorious holiest depths. Contradict justice god pious convictions enlightenment moral good superiority abstract transvaluation."
+          },
+          {
+            "section1": "Intentions depths fearful merciful will reason ubermensch intentions faith merciful insofar noble victorious. Marvelous deceptions passion society abstract play society evil superiority. Value oneself sea evil aversion ascetic. Depths abstract eternal-return zarathustra oneself ubermensch pious. Will pious reason faith contradict superiority.\n\nSuicide eternal-return self society decrepit christianity inexpedient ultimate christian zarathustra insofar ubermensch. Reason good reason grandeur will madness strong gains will self. Pinnacle spirit noble christian society superiority inexpedient intentions self contradict war.\n\nTransvaluation grandeur dead abstract dead joy spirit will victorious snare. Chaos dead morality depths value good war grandeur good. Contradict grandeur ultimate free prejudice hope ocean ocean right snare burying abstract selfish.\n\nMoral grandeur against spirit free snare madness salvation hope oneself inexpedient truth. Will virtues madness madness revaluation dead battle self intentions good madness. Play merciful christian zarathustra salvation spirit spirit ascetic.\n\nHorror overcome ultimate christianity love intentions grandeur fearful virtues zarathustra. Noble society decrepit strong of dead. Intentions inexpedient right depths ascetic. Pious law free god faithful mountains spirit salvation.\n\nGod aversion convictions war depths superiority inexpedient of sea. Superiority deceptions god horror virtues free horror suicide law marvelous fearful eternal-return superiority ultimate. Marvelous will pinnacle chaos hope prejudice noble fearful play depths god ideal law. Ocean virtues holiest justice gains burying salvation horror self strong joy burying. Merciful suicide good abstract selfish."
+          },
+          {
+            "quote": [
+              "The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself.",
+              "Friedrich Nietzsche"
+            ]
+          },
+          {
+            "summary2": "Ocean prejudice superiority spirit philosophy christianity suicide grandeur. Derive selfish christianity reason eternal-return overcome enlightenment. Against noble christianity victorious intentions aversion evil convictions disgust."
+          },
+          {
+            "section2": "Endless ubermensch of overcome will. Spirit virtues victorious contradict strong selfish snare endless war endless contradict. Abstract selfish against derive decrepit convictions ideal victorious decrepit society moral. Ascetic virtues inexpedient virtues ubermensch. Salvation love virtues intentions ascetic burying law justice salvation inexpedient deceptions noble virtues snare. Revaluation evil disgust law transvaluation. Depths free ultimate victorious against.\n\nContradict ultimate of philosophy marvelous zarathustra convictions pinnacle dead sea. Insofar dead christian faith depths. Prejudice enlightenment overcome oneself abstract justice free ultimate good ascetic justice. Ascetic endless deceptions merciful dead faith god self."
+          }
+        ]
+      },
+      {
+        "title": "18K镶钻珍珠吊坠",
+        "popular": false,
+        "description": "当代大多偏爱简约风格，所以决定给这颗光洁无瑕、珠圆玉润的13-14mm南洋白搭配一枚“一笔画”18K镶钻坠头，一笔即成。",
+        "date": "2024年3月22日",
+        "read": "10 mins",
+        "label": "Pendant",
+        "img": "/images/products/preview/wechat_mall_goods_11169118.jpg",
+        "imgAlt": "18K镶钻珍珠吊坠",
+        "slug": "most-colorful-places",
+        "tags": ["定制"],
+        "sources": ["澳大利亚", "中国"],
+        "content": [
+          {
+            "img": "/images/articles/single-post/most-colorful-places.jpg",
+            "summary": "Sea virtues fearful snare passion good war prejudice. Law aversion eternal-return chaos decieve superiority convictions ideal ultimate free enlightenment. Free ascetic love oneself ultimate contradict transvaluation will christian. Dead mountains value holiest zarathustra god war pious. Oneself decrepit inexpedient victorious philosophy christian ocean virtues prejudice. Sea passion ocean victorious holiest depths. Contradict justice god pious convictions enlightenment moral good superiority abstract transvaluation."
+          },
+          {
+            "section1": "Intentions depths fearful merciful will reason ubermensch intentions faith merciful insofar noble victorious. Marvelous deceptions passion society abstract play society evil superiority. Value oneself sea evil aversion ascetic. Depths abstract eternal-return zarathustra oneself ubermensch pious. Will pious reason faith contradict superiority.\n\nSuicide eternal-return self society decrepit christianity inexpedient ultimate christian zarathustra insofar ubermensch. Reason good reason grandeur will madness strong gains will self. Pinnacle spirit noble christian society superiority inexpedient intentions self contradict war.\n\nTransvaluation grandeur dead abstract dead joy spirit will victorious snare. Chaos dead morality depths value good war grandeur good. Contradict grandeur ultimate free prejudice hope ocean ocean right snare burying abstract selfish.\n\nMoral grandeur against spirit free snare madness salvation hope oneself inexpedient truth. Will virtues madness madness revaluation dead battle self intentions good madness. Play merciful christian zarathustra salvation spirit spirit ascetic.\n\nHorror overcome ultimate christianity love intentions grandeur fearful virtues zarathustra. Noble society decrepit strong of dead. Intentions inexpedient right depths ascetic. Pious law free god faithful mountains spirit salvation.\n\nGod aversion convictions war depths superiority inexpedient of sea. Superiority deceptions god horror virtues free horror suicide law marvelous fearful eternal-return superiority ultimate. Marvelous will pinnacle chaos hope prejudice noble fearful play depths god ideal law. Ocean virtues holiest justice gains burying salvation horror self strong joy burying. Merciful suicide good abstract selfish."
+          },
+          {
+            "quote": [
+              "The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself.",
+              "Friedrich Nietzsche"
+            ]
+          },
+          {
+            "summary2": "Ocean prejudice superiority spirit philosophy christianity suicide grandeur. Derive selfish christianity reason eternal-return overcome enlightenment. Against noble christianity victorious intentions aversion evil convictions disgust."
+          },
+          {
+            "section2": "Endless ubermensch of overcome will. Spirit virtues victorious contradict strong selfish snare endless war endless contradict. Abstract selfish against derive decrepit convictions ideal victorious decrepit society moral. Ascetic virtues inexpedient virtues ubermensch. Salvation love virtues intentions ascetic burying law justice salvation inexpedient deceptions noble virtues snare. Revaluation evil disgust law transvaluation. Depths free ultimate victorious against.\n\nContradict ultimate of philosophy marvelous zarathustra convictions pinnacle dead sea. Insofar dead christian faith depths. Prejudice enlightenment overcome oneself abstract justice free ultimate good ascetic justice. Ascetic endless deceptions merciful dead faith god self."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -10,11 +10,11 @@ import NewsletterSignUp from "./NewsletterSignUp";
 export default function Footer() {
   return (
     <footer className="bg-black overflow-hidden">
-      <NewsletterTicker />
+      {/* <NewsletterTicker /> */}
       <div className="max-w-[95rem] mx-auto px-6">
-        <div className="py-8 xl:py-[128px] grid grid-cols-1 2xl:grid-cols-2 gap-2 md:gap-12 xl:gap-32 items-center">
+        <div className="py-8 xl:py-[64px] grid grid-cols-1 2xl:grid-cols-2 gap-2 md:gap-12 xl:gap-32 items-center">
           <h2 className="uppercase text-footer-title">
-            Design news to your inbox
+            Guluart news to your inbox
           </h2>
           <div className="flex flex-wrap lg:justify-end gap-3">
             <NewsletterSignUp
@@ -25,7 +25,7 @@ export default function Footer() {
             />
           </div>
         </div>
-        <div className="flex flex-col md:flex-row flex-wrap lg:justify-between gap-6 max-w-[95rem] w-full">
+        {/* <div className="flex flex-col md:flex-row flex-wrap lg:justify-between gap-6 max-w-[95rem] w-full">
           <svg
             width="209"
             height="18"
@@ -128,13 +128,10 @@ export default function Footer() {
               </ul>
             </nav>
           </div>
-        </div>
-        <div className="flex flex-wrap flex-col md:flex-row justify-between gap-6 py-3 lg:pt-[6rem] lg:pb-[4.0625rem] w-full">
+        </div> */}
+        <div className="flex flex-wrap flex-col md:flex-row justify-between gap-6 py-3 lg:pt-[3rem] lg:pb-[4.0625rem] w-full">
           <p className="font-regular text-white">
-            Designed by{" "}
-            <Link href="https://templates.gola.io/templates">Pawel Gola</Link>.
-            Developed by Aman Singh Bhogal. All content belongs to their
-            respective copyright holders.
+            Built with <a className="underline font-medium text-inherit" href="https://vercel.com/">Vercel</a> &amp; <a className="underline font-medium text-inherit" href="https://nextjs.org/">Next.js</a> by <a className="underline font-medium text-inherit" href="https://www.guluart.com/">guluart.com</a>
           </p>
           <FooterSocialLinks />
         </div>

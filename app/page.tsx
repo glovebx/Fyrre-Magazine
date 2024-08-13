@@ -1,8 +1,8 @@
 import Authors from "@/components/Authors/Authors";
 import LatestArticles from "@/components/LatestArticles/LatestArticles";
 import NewsLoading from "@/components/NewsTicker/loading";
-import LatestPodcasts from "@/components/LatestPodcasts/LatestPodcasts";
-import LatestPodcastsLoading from "@/components/LatestPodcasts/loading";
+import LatestProducts from "@/components/LatestProducts/LatestProducts";
+import LatestPodcastsLoading from "@/components/LatestProducts/loading";
 import AuthorsLoading from "@/components/Authors/loading";
 import NewsTicker from "@/components/NewsTicker/NewsTicker";
 import PageTitle from "@/components/PageTitle";
@@ -33,27 +33,27 @@ export default function Home() {
 
       <Subheading
         className="text-subheading"
-        url="/podcasts"
-        linkText="All episodes"
+        url="/products"
+        linkText="All products"
       >
-        Podcast
+        Product
       </Subheading>
 
       <Suspense fallback={<LatestPodcastsLoading />}>
-        <LatestPodcasts />
+        <LatestProducts />
       </Suspense>
 
-      <Subheading
+      {/* <Subheading
         className="text-subheading"
         url="/authors"
         linkText="All authors"
       >
         Authors
-      </Subheading>
+      </Subheading> */}
 
-      <Suspense fallback={<AuthorsLoading />}>
+      {/* <Suspense fallback={<AuthorsLoading />}>
         <Authors />
-      </Suspense>
+      </Suspense> */}
     </main>
   );
 }

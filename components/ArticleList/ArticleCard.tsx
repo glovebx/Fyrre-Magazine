@@ -1,6 +1,6 @@
 import { Skeleton } from "../ui/skeleton";
 
-export default function PodcastCard() {
+export default function ArticleCard() {
   return (
     <div className="grid grid-cols-1 md:grid-cols-[auto_auto] justify-between md:items-center gap-2 md:gap-0">
       <div className="grid grid-cols-1 md:grid-cols-[auto_auto_auto] md:items-center gap-2 md:gap-16">

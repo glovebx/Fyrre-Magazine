@@ -1,41 +1,41 @@
 export type ArticleType = {
   id: number;
-  author: string;
-  job: string;
-  city: string;
-  avatar: string;
+  title: string;
+  img: string;
+  cover: string;
   imgAlt: string;
+  date: string;
+  duration: string;
+  episode: string;
   slug: string;
-  articles: Array<{
-    title: string;
-    popular: boolean;
-    popularity: number;
-    description: string;
-    date: string;
-    read: string;
-    label: string;
-    img: string;
-    imgAlt: string;
-    slug: string;
-    content: Array<{
-      img: string;
-      summary: string;
-      section1: string;
-      quote: Array<string>;
-      summary2: string;
-      section2: string;
-    }>;
-  }>;
+  url: string;
+  content: {
+    summary: string;
+    section1: string;
+    quote: [string, string];
+    section2: string;
+  }[];
 };
 
-export async function getArticles() {
-  const res = await fetch(
-    "https://raw.githubusercontent.com/asbhogal/Fyrre-Magazine/main/json/articles.json"
-  );
+export async function getArticles(): Promise<ArticleType[]> {
+  // const res = await fetch(
+  //   "https://raw.githubusercontent.com/glovebx/Fyrre-Magazine/main/json/articles.json", { signal: AbortSignal.timeout(10000) }
+  // );
 
-  if (!res.ok) {
-    throw new Error("Failed to fetch article data");
-  }
+  const res = await fetch(`${process.env.NEXT_PUBLIC_APP_URL}/api/articles?${new Date()}`, {
+      method: "POST",
+      body: JSON.stringify({ }),
+      headers: {
+        "Content-Type": "application/json",
+      },
+    });
 
-  return res.json();
+  // console.log(res);  
+
+  // if (!res.ok) {
+  //   throw new Error("Failed to fetch article data");
+  // }
+  const result = await res.json();
+
+  return result.data;
 }

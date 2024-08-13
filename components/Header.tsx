@@ -98,29 +98,41 @@ export default function Header() {
           <SocialSharing
             links={[
               {
-                href: "#",
-                ariaLabel: "Visit our Instagram page",
-                src: "/icons/ri_instagram-line.svg",
-                alt: "Instagram logo",
+                href: "https://www.weibo.com/u/6358821166",
+                ariaLabel: "Visit our Weibo page",
+                src: "/icons/ri_weibo-fill.svg",
+                alt: "Weibo logo",
               },
               {
                 href: "#",
-                ariaLabel: "Visit our Twitter page",
-                src: "/icons/ri_twitter-fill.svg",
-                alt: "Twitter logo",
-              },
-              {
-                href: "#",
-                ariaLabel: "Visit our YouTube page",
-                src: "/icons/ri_youtube-fill.svg",
-                alt: "YouTube logo",
-              },
-              {
-                href: "#",
-                ariaLabel: "Visit our RSS feed",
-                src: "/icons/ri_rss-fill.svg",
-                alt: "RSS feed logo",
-              },
+                ariaLabel: "Visit our MP page",
+                src: "/icons/ri_weixin-fill.svg",
+                alt: "Weixin logo",
+              },              
+              // {
+              //   href: "#",
+              //   ariaLabel: "Visit our Instagram page",
+              //   src: "/icons/ri_instagram-line.svg",
+              //   alt: "Instagram logo",
+              // },
+              // {
+              //   href: "#",
+              //   ariaLabel: "Visit our Twitter page",
+              //   src: "/icons/ri_twitter-fill.svg",
+              //   alt: "Twitter logo",
+              // },
+              // {
+              //   href: "#",
+              //   ariaLabel: "Visit our YouTube page",
+              //   src: "/icons/ri_youtube-fill.svg",
+              //   alt: "YouTube logo",
+              // },
+              // {
+              //   href: "#",
+              //   ariaLabel: "Visit our RSS feed",
+              //   src: "/icons/ri_rss-fill.svg",
+              //   alt: "RSS feed logo",
+              // },
             ]}
           />
         </nav>

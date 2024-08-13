@@ -5,17 +5,17 @@ type MenuItem = {
 
 const menu: MenuItem[] = [
   {
-    href: "/magazine",
-    label: "Magazine",
+    href: "/articles",
+    label: "Articles",
   },
   {
-    href: "/podcasts",
-    label: "Podcasts",
+    href: "/products",
+    label: "Products",
   },
-  {
-    href: "/authors",
-    label: "Authors",
-  },
+  // {
+  //   href: "/authors",
+  //   label: "Authors",
+  // },
 ];
 
 export default menu;

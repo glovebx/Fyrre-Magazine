@@ -1,4 +1,11 @@
-<svg width="286" height="285" viewBox="0 0 286 285" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="286" height="285" fill="black"/>
-<path d="M123.676 261H74.124V26.932H225.388V69.964H123.676V128.97H209.414V171.676H123.676V261Z" fill="white"/>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 285 285" width="285" height="285">
+	<title>新建项目</title>
+	<style>
+		.s0 { fill: #000000;stroke: #000000;stroke-miterlimit:100 } 
+		.s1 { fill: #ffffff } 
+	</style>
+	<g id="Layer 1">
+		<path id="形状 1" fill-rule="evenodd" class="s0" d="m372-3.4v303h-388.8v-303z"/>
+		<path id="G" class="s1" aria-label="G"  d="m123.8 269.8q-48.3 0-66.6-22.5-12.6-15.6-12.6-42.9 0-12.5 2.7-27.5l11.9-68q16-91.2 111.6-91.2 39.4 0 59.9 17 20.4 16.7 20.4 45.9 0 11.9-3.4 24.2-3.1 12.2-6.2 18.3l-3.4 6.2h-60.2q8.9-12.3 8.9-28.3 0-30.6-25.5-30.6-34.4 0-41.2 39.8l-11.6 65.3q-1.7 9.2-1.7 18.1 0 23.4 27.6 23.4 27.9 0 35.7-27.9h-27.9l6.8-37.7h90.2l-5.5 29.2-1.7 9.9q-14.3 79.3-108.2 79.3z"/>
+	</g>
 </svg>

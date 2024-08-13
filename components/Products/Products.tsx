@@ -76,13 +76,13 @@ export default function Products() {
               <span className="flex">
                 <p className="font-semibold pr-2">Tags</p>
                 {articleData.tags.map((tag, index) => (
-                  <p className="pr-2">{tag}</p>
+                  <p className="pr-2" key={index}>{tag}</p>
                 ))}
               </span>
               <span className="flex">
                 <p className="font-semibold pr-2">RMO</p>
                 {articleData.sources.map((source, index) => (
-                  <p className="pr-2">{source}</p>
+                  <p className="pr-2" key={index}>{source}</p>
                 ))}
               </span>
             </div>

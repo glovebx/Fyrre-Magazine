@@ -7,8 +7,8 @@ import ProductContextProvider from "@/context/ProductContext";
 import ArticleContextProvider from "@/context/ArticleContext";
 
 export const metadata: Metadata = {
-  title: "Fyrre Magazine",
-  description: "Art & Life",
+  title: "Guluart",
+  description: "Jewelry & Art",
 };
 
 export default function RootLayout({

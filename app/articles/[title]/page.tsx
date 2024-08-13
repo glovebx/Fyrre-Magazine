@@ -20,7 +20,7 @@ export async function generateMetadata({
   }
 
   return {
-    title: `${podcastData.title} | Fyrre Magazine`,
+    title: `${podcastData.title} | Guluart`,
   };
 }
 

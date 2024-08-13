@@ -1,17 +1,15 @@
-import Authors from "@/components/Authors/Authors";
 import LatestArticles from "@/components/LatestArticles/LatestArticles";
 import NewsLoading from "@/components/NewsTicker/loading";
 import LatestProducts from "@/components/LatestProducts/LatestProducts";
 import LatestPodcastsLoading from "@/components/LatestProducts/loading";
-import AuthorsLoading from "@/components/Authors/loading";
 import NewsTicker from "@/components/NewsTicker/NewsTicker";
 import PageTitle from "@/components/PageTitle";
 import Subheading from "@/components/Subheading";
 import { Suspense } from "react";
 
 export const metadata = {
-  title: "Fyrre Magazine | Art & Life | Home",
-  description: "Articles, podcasts and news from the Berlin cultural scene",
+  title: "Guluart | Jewelry & Art | Home",
+  description: "古鹿美学, 古鹿珠宝, Jewelry, Articles and news from Guluart",
 };
 
 export default function Home() {

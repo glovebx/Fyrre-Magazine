@@ -40,53 +40,60 @@ export default function Header() {
             className="w-full pt-14"
             aria-label="Menu Toggle"
           >
-            <nav
-              className="flex flex-col flex-1 justify-end gap-6"
-              aria-labelledby="mobile-nav"
-            >
-              {menuLinks.map((menuItem, index) => (
-                <Link key={index} href={menuItem.href}>
-                  {menuItem.label}
-                </Link>
-              ))}
-              <svg
-                width="15"
-                height="1"
-                viewBox="0 0 15 1"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
+            <div className="flex flex-row flex-2 justify-end gap-6">
+              <nav
+                className="flex flex-col flex-1 justify-end gap-6"
+                aria-labelledby="mobile-nav"
               >
-                <rect width="15" height="1" fill="black" />
-              </svg>
-              <SocialSharing
-                links={[
-                  // {
-                  //   href: "#",
-                  //   ariaLabel: "Visit our Instagram page",
-                  //   src: "/icons/ri_instagram-line.svg",
-                  //   alt: "Instagram logo",
-                  // },
-                  // {
-                  //   href: "#",
-                  //   ariaLabel: "Visit our Twitter page",
-                  //   src: "/icons/ri_twitter-fill.svg",
-                  //   alt: "Twitter logo",
-                  // },
-                  {
-                    href: "https://www.weibo.com/u/6358821166",
-                    ariaLabel: "Visit our Weibo page",
-                    src: "/icons/ri_weibo-fill.svg",
-                    alt: "Weibo logo",
-                  },
-                  {
-                    href: "#",
-                    ariaLabel: "Visit our MP page",
-                    src: "/icons/ri_weixin-fill.svg",
-                    alt: "Weixin logo",
-                  },                     
-                ]}
-              />
-            </nav>
+                {menuLinks.map((menuItem, index) => (
+                  <Link key={index} href={menuItem.href}>
+                    {menuItem.label}
+                  </Link>
+                ))}
+                <svg
+                  width="15"
+                  height="1"
+                  viewBox="0 0 15 1"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <rect width="15" height="1" fill="black" />
+                </svg>
+                <SocialSharing
+                  links={[
+                    // {
+                    //   href: "#",
+                    //   ariaLabel: "Visit our Instagram page",
+                    //   src: "/icons/ri_instagram-line.svg",
+                    //   alt: "Instagram logo",
+                    // },
+                    // {
+                    //   href: "#",
+                    //   ariaLabel: "Visit our Twitter page",
+                    //   src: "/icons/ri_twitter-fill.svg",
+                    //   alt: "Twitter logo",
+                    // },
+                    {
+                      href: "https://www.weibo.com/u/6358821166",
+                      ariaLabel: "Visit our Weibo page",
+                      src: "/icons/ri_weibo-fill.svg",
+                      alt: "Weibo logo",
+                    },
+                    // {
+                    //   href: "#",
+                    //   ariaLabel: "Visit our MP page",
+                    //   src: "/icons/ri_weixin-fill.svg",
+                    //   alt: "Weixin logo",
+                    // },                     
+                  ]}
+                  showWeixinIcon={false}
+                />
+              </nav>
+              <div className="flex flex-col">
+                <img className="h-32 w-fit" src="/images/homepage/contact-qr.png"/>
+                <span className='text-l text-center'>扫码关注微信</span>
+              </div>
+            </div>
           </SheetContent>
         </Sheet>
         <nav
@@ -115,12 +122,12 @@ export default function Header() {
                 src: "/icons/ri_weibo-fill.svg",
                 alt: "Weibo logo",
               },
-              {
-                href: "#",
-                ariaLabel: "Visit our MP page",
-                src: "/icons/ri_weixin-fill.svg",
-                alt: "Weixin logo",
-              },              
+              // {
+              //   href: "#",
+              //   ariaLabel: "Visit our MP page",
+              //   src: "/icons/ri_weixin-fill.svg",
+              //   alt: "Weixin logo",
+              // },              
               // {
               //   href: "#",
               //   ariaLabel: "Visit our Instagram page",

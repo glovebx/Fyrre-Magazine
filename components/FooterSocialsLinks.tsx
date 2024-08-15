@@ -1,4 +1,5 @@
 import Link from "next/link";
+import WeixinDialog from "@/components/WeixinDialog"
 
 type SocialMediaLink = {
   href: string;
@@ -14,12 +15,12 @@ const FooterSocialMediaLinks: SocialMediaLink[] = [
     src: "/icons/ri_weibo-fill-white.svg",
     alt: "Weibo logo",
   },
-  {
-    href: "#",
-    ariaLabel: "Visit our MP page",
-    src: "/icons/ri_weixin-fill-white.svg",
-    alt: "Weixin logo",
-  },
+  // {
+  //   href: "#",
+  //   ariaLabel: "Visit our MP page",
+  //   src: "/icons/ri_weixin-fill-white.svg",
+  //   alt: "Weixin logo",
+  // },
   // {
   //   href: "#",
   //   ariaLabel: "Visit our YouTube page",
@@ -42,6 +43,7 @@ export default function FooterSocialLinks() {
           <img className="h-full w-fit" src={link.src} alt={link.alt} />
         </Link>
       ))}
+      <WeixinDialog icon="/icons/ri_weixin-fill-white.svg"/>
     </div>
   );
 }

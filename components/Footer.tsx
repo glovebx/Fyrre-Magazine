@@ -131,7 +131,8 @@ export default function Footer() {
         </div> */}
         <div className="flex flex-wrap flex-col md:flex-row justify-between gap-6 py-3 lg:pt-[3rem] lg:pb-[4.0625rem] w-full">
           <p className="font-regular text-white">
-            Built with <a className="underline font-medium text-inherit" href="https://vercel.com/">Vercel</a> &amp; <a className="underline font-medium text-inherit" href="https://nextjs.org/">Next.js</a> by <a className="underline font-medium text-inherit" href="https://www.guluart.com/">guluart.com</a>
+            {/* Built with <a className="underline font-medium text-inherit" href="https://vercel.com/">Vercel</a> &amp; <a className="underline font-medium text-inherit" href="https://nextjs.org/">Next.js</a> by <a className="underline font-medium text-inherit" href="https://www.guluart.com/">guluart.com</a> */}
+            <a target="_blank" className="underline text-sm text-inherit" href="https://beian.miit.gov.cn/">浙ICP备14016375号-3</a>
           </p>
           <FooterSocialLinks />
         </div>
